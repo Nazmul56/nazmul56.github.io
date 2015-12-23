@@ -1,14 +1,6 @@
 {
     "feed": [
-         {
-            "id": 5,
-            "name": "Abraham Lincoln",
-            "image": null,
-            "status": "That some achieve great success, is proof to all that others can achieve it as well",
-            "profilePic": "http://api.androidhive.info/feed/img/lincoln.jpg",
-            "timeStamp": "1403375851930",
-            "url": null
-        },
+        
         {
             "id": 1,
             "name": "TIME",
@@ -17,6 +9,15 @@
             "profilePic": "http://api.androidhive.info/feed/img/time.png",
             "timeStamp": "1403375851930",
             "url": "http://ti.me/1qW8MLB"
+        },
+         {
+            "id": 5,
+            "name": "Abraham Lincoln",
+            "image": null,
+            "status": "That some achieve great success, is proof to all that others can achieve it as well",
+            "profilePic": "http://api.androidhive.info/feed/img/lincoln.jpg",
+            "timeStamp": "1403375851930",
+            "url": null
         },
         {
             "id": 2,
