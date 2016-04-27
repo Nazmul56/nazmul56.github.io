@@ -25,7 +25,8 @@
     },
     {
       "title": " Android | Taking Photos with Android Camera ",
-      "url": "<style type="text/css">.infoclass{ font-size:15px;padding:8px; margin-bottom:3px; border-radius: 3px;  background-color:white;-webkit-box-shadow: inset 0px 0px 2px 0px rgba(49, 50, 50, 0.67);
+      "url": "[
+  {"tag":"style","type":"text/css","html":".infoclass{ font-size:15px;padding:8px; margin-bottom:3px; border-radius: 3px;  background-color:white;-webkit-box-shadow: inset 0px 0px 2px 0px rgba(49, 50, 50, 0.67);
 -moz-box-shadow:    inset 0px 0px 2px 0px rgba(49, 50, 50, 0.67);
 box-shadow:         inset 0px 0px 2px 0px rgba(49, 50, 50, 0.67);}
 body{background-color:#f5f5f5; font-family:serif; line-height:1.3em; border:3px solid #29b6f6; 	border-radius: 6px; padding:3px; padding-top:8px }
@@ -56,499 +57,884 @@ p{font-size:15px}
     text-decoration: none;
 }
 .email:hover{color:#29b6f6}
-</style>
-
-<div class="maintitle">Class Representative</div>
-
-<div class="demo-frame">
-<a style="text-decoration:none" href="#"><div id="expander1" class="headertitle expander">Computer Science and Telecommunication Engineering (CSTE 01)</div></a>
-
-<div class="content">
-
-<p style="text-align: center;"><strong><u>5th Batch</u></strong></p>
-
-<div class="infoclass"><strong>Syful Islam</strong><br />
-Phone: <a class="telephone" href="tel:01823024498">01823024498</a></div>
-
-<div class="infoclass">CR(Female):<br />
-<strong>Nabanita BISWAS</strong></div>
-
-<p style="text-align: center;"><u><strong>6th Batch</strong></u></p>
-
-<div class="infoclass"><strong>Azizul Hakim Suzan</strong><br />
-Phone: <a class="telephone" href="tel:01912675208">01912675208</a></div>
-
-<p style="text-align: center;"><u><strong>7th Batch</strong></u></p>
-
-<div class="infoclass"><strong>Mukit Ahmed Khan</strong><br />
-Phone: <a class="telephone" href="tel:01816069622">01816069622</a></div>
-
-<div class="infoclass">CR(Female):<br />
-<b>Tahmina Akter Tani</b></div>
-
-<p style="text-align: center;"><strong><u>&nbsp;8th Batch</u></strong></p>
-
-<div class="infoclass"><strong>Asim Biswas</strong><br />
-Phone: <a class="telephone" href="tel:01738901346">01738901346</a></div>
-
-<p style="text-align: center;"><u><strong>&nbsp;9th batch</strong></u></p>
-
-<div class="infoclass"><strong>Mukarrom Yahiya</strong><br />
-Phone: <a class="telephone" href="tel:01672216547">01672216547</a></div>
-
-<div class="infoclass"><strong>Robiul Auwal</strong><br />
-Phone: <a class="telephone" href="tel:01827893381">01827893381</a></div>
-
-<p style="text-align: center;"><u><strong>&nbsp;10th batch</strong></u></p>
-
-<div class="infoclass"><strong>Sohel Rana</strong><br />
-Phone: <a class="telephone" href="tel:01861625909">01861625909</a></div>
-
-<div class="infoclass">CR(Female):<br />
-<b>Tahin Sharmin</b></div>
-
-</div></div><div class="demo-frame">
-<a style="text-decoration:none" href="#"><div id="expander1" class="headertitle expander">Fisheries and Marine Science (FIMS 02)</div></a>
-
-<div class="content">
-<p style="text-align: center;"><u><strong>5th Batch</strong></u></p>
-
-<div class="infoclass"><strong>Jakir Hossain</strong><br />
-Phone: <a class="telephone" href="tel:01829604553">01829604553</a></div>
-
-<p style="text-align: center;"><u><strong>6th batch</strong></u></p>
-
-<div class="infoclass"><strong>Jewel Pall</strong><br />
-Phone: <a class="telephone" href="tel:01741250937">01741250937</a></div>
-
-<p style="text-align: center;"><u><strong>7th Batch</strong></u></p>
-
-<div class="infoclass"><strong>Maruf Hossain</strong><br />
-Phone: <a class="telephone" href="tel:01826573412">01826573412</a></div>
-
-<div class="infoclass">CR(Female):<br />
-<b>Sumaia Akter</b></div>
-
-
-<p style="text-align: center;"><u><strong>8th Batch</strong></u></p>
-
-<div class="infoclass"><strong><span data-ft="{&quot;tn&quot;:&quot;K&quot;}" data-reactid=".5i6.1:3:1:$comment337534039766637_337548096431898:0.0.$right.0.$left.0.0.1:$comment-body"><span class="UFICommentBody" data-reactid=".5i6.1:3:1:$comment337534039766637_337548096431898:0.0.$right.0.$left.0.0.1:$comment-body.0"><span data-reactid=".5i6.1:3:1:$comment337534039766637_337548096431898:0.0.$right.0.$left.0.0.1:$comment-body.0.$end:0:$0:0">Badsha Fahad</span></span></span></strong><br />
-Phone: <a class="telephone" href="tel:01818967555">01818967555</a></div>
-
-<div class="infoclass"><strong>CR(Female)</strong><br />
-Sanjida Afrin Semme</div>
-
-<p style="text-align: center;"><strong><u>9th Batch</u></strong></p>
-
-<div class="infoclass"><strong>Md.Rashedul haque Selim</strong><br />
-Phone: <a class="telephone" href="tel:0167378827">0167378827</a></div>
-
-<div>
-<div class="infoclass">CR(Female)<br />
-<strong>Sabrina Sharmin</strong></div>
-</div>
-
-<p style="text-align: center;"><strong><u>10th Batch</u></strong></p>
-
-<div class="infoclass"><strong>md shafawat hossain</strong><br />
-Phone: <a class="telephone" href="tel:01845819902">01845819902</a></div>
-
-
-</div></div><div class="demo-frame">
-<a style="text-decoration:none" href="#"><div id="expander1" class="headertitle expander">Pharmacy (code 03)</div></a>
-
-<div class="content">
-<p style="text-align: center;"><u><strong>5th batch</strong></u></p>
-
-<div class="infoclass"><strong>Shalahuddin Millat</strong><br />
-Phone: <a class="telephone" href="tel:01834136774">01834136774</a></div>
-
-<p style="text-align: center;"><u><strong>6th Batch</strong></u></p>
-
-<div class="infoclass"><strong>Mainul Islam Sabbir</strong><br />
-Phone: <a class="telephone" href="tel:01674055971">01674055971</a></div>
-
-<p style="text-align: center;"><u><strong>7th batch</strong></u></p>
-
-<div class="infoclass"><strong>GM Saiful Islam</strong>(<span class="null">Asif</span>)<br />
-Phone: <a class="telephone" href="tel:01820153827">01820153827</a></div>
-
-<p style="text-align: center;"><u><strong>8th batch</strong></u></p>
-
-<div class="infoclass"><strong>Jakir Hossain</strong><br />
-Phone: <a class="telephone" href="tel:01815718030">01815718030</a></div>
-
-<p style="text-align: center;"><u><strong>9th batch</strong></u></p>
-
-<div class="infoclass"><strong>Pulak chowdhury</strong><br />
-Phone: <a class="telephone" href="tel:01815503418">01815503418</a></div>
-
-<p style="text-align: center;"><strong><u>10th Batch</u></strong></p>
-
-<div class="infoclass"><strong>Ohidur Reaz</strong><br />
-Phone: <a class="telephone" href="tel:01717801198">01717801198</a></div>
-
-<div>
-<div class="infoclass">CR(Female)<br />
-<strong>iifa rahman</strong></div>
-</div>
-
-</div></div><div class="demo-frame">
-<a style="text-decoration:none" href="#"><div id="expander1" class="headertitle expander">Applied Chemistry &amp; Chemical Engineering (ACCE 04)</div></a>
-
-<div class="content">
-
-<p style="text-align: center;"><u><strong>5th Batch</strong></u></p>
-
-<div class="infoclass"><strong>Rashed</strong><br />
-Phone: <a class="telephone" href="tel:01673563130">01673563130</a></div>
-
-<p style="text-align: center;"><u><strong>6th Batch</strong></u></p>
-
-<div class="infoclass"><strong>Saiful</strong><br />
-Phone: <a class="telephone" href="tel:01670307117">01670307117</a></div>
-
-<p style="text-align: center;"><u><strong>7th Batch</strong></u></p>
-
-<div class="infoclass"><strong>Mohammad Mehedi Hasan</strong><br />
-Phone: <a class="telephone" href="tel:01770276383">01770276383</a></div>
-
-<p style="text-align: center;"><u><strong>8th Batch</strong></u></p>
-
-<div class="infoclass"><strong>Saikot</strong><br />
-Phone: <a class="telephone" href="tel:01815807458">01815807458</a></div>
-
-<p style="text-align: center;"><u><strong>9th Batch</strong></u></p>
-
-<div class="infoclass"><strong>Sohag</strong><br />
-Phone: <a class="telephone" href="tel:01684007742">01684007742</a></div>
-
-<p style="text-align: center;"><u><strong>10th Batch</strong></u></p>
-
-<div class="infoclass"><strong>Bijoy Bhowmick</strong><br />
-Phone: <a class="telephone" href="tel:01625606730">01625606730</a></div>
-
-</div></div><div class="demo-frame">
-<a style="text-decoration:none" href="#"><div id="expander1" class="headertitle expander">Microbiology (MBG 05)</div></a>
-
-<div class="content">
-
-<p style="text-align: center;"><u><strong>5th Batch</strong></u></p>
-
-<div class="infoclass"><strong>Robin</strong><br />
-Phone: <a class="telephone" href="tel:01758863333">01758863333</a></div>
-
-<div class="infoclass">CR(Female)<br />
-<strong>Sajeda Nishat</strong></div>
-
-<p style="text-align: center;"><u><strong>6th Batch</strong></u></p>
-
-<div class="infoclass"><strong>Prince</strong><br />
-Phone: <a class="telephone" href="tel:01735698084">01735698084</a></div>
-
-<div class="infoclass">CR(Female)<br />
-<strong>Sumita</strong></div>
-
-<p style="text-align: center;"><u><strong>7th Batch</strong></u></p>
-
-<div class="infoclass"><strong>Arafat</strong><br />
-Phone: <a class="telephone" href="tel:01814743728">01814743728</a></div>
-
-<div class="infoclass">CR(Female)<br />
-<strong>Jannatul Fiza</strong></div>
-
-<p style="text-align: center;"><u><strong>8th Batch</strong></u></p>
-
-<div class="infoclass"><strong>Pial</strong><br />
-Phone: <a class="telephone" href="tel:01726117509">01726117509</a></div>
-
-<div class="infoclass">CR(Female)<br />
-<strong>Razia Sultana</strong></div>
-
-<p style="text-align: center;"><strong><u>9th batch</u></strong></p>
-
-<div class="infoclass"><strong>Aminul</strong><br />
-Phone: <a class="telephone" href="tel:01734452665">01734452665</a></div>
-
-<div class="infoclass">CR(Female)<br />
-<strong>Afnan Ashan</strong></div>
-
-<p style="text-align: center;"><strong><u>10th batch</u></strong></p>
-
-<div class="infoclass"><strong>Habib</strong><br />
-Phone: <a class="telephone" href="tel:01626708616">01626708616</a></div>
-
-</div></div>
-
-
-
-
-<div class="demo-frame">
-<a style="text-decoration:none" href="#"><div id="expander1" class="headertitle expander">Applied Mathematics (A. MTH 05)</div></a>
-
-<div class="content">
-
-<p style="text-align: center;"><u><strong>6th Batch</strong></u></p>
-
-<div class="infoclass"><strong>Sohag</strong><br />
-Phone: <a class="telephone" href="tel:01811849284">01811849284</a></div>
-
-<p style="text-align: center;"><u><strong>7th Batch</strong></u></p>
-
-<div class="infoclass"><strong>Ibrahim</strong><br />
-Phone: <a class="telephone" href="tel:01520103233">01520103233</a></div>
-
-<p style="text-align: center;"><u><strong>8th Batch</strong></u></p>
-
-<div class="infoclass"><strong>Roni</strong><br />
-Phone: <a class="telephone" href="tel:01925092949">01925092949</a></div>
-
-<p style="text-align: center;"><u><strong>9th Batch</strong></u></p>
-
-<div class="infoclass"><strong>MOHAMMAD ANAS</strong><br />
-Phone: <a class="telephone" href="tel:01915529666">01915529666</a></div>
-
-
-<p style="text-align: center;"><u><strong>10th Batch</strong></u></p>
-
-<div class="infoclass"><strong>RIAZ MAHMUD</strong><br />
-Phone: <a class="telephone" href="tel:01750687943">01750687943</a></div>
-
-
-</div></div><div class="demo-frame">
-<a style="text-decoration:none" href="#"><div id="expander1" class="headertitle expander">English (07)</div></a>
-
-<div class="content">
-
-<p style="text-align: center;"><u><strong>6th Batch</strong></u></p>
-
-<div class="infoclass"><strong>Sadek</strong><br />
-Phone: <a class="telephone" href="tel:01830790720">01830790720</a></div>
-
-<p style="text-align: center;"><u><strong>7th Batch</strong></u></p>
-
-<div class="infoclass"><strong>Hira</strong><br />
-Phone: <a class="telephone" href="tel:01916141483">01916141483</a></div>
-
-<p style="text-align: center;"><u><strong>8th Batch</strong></u></p>
-
-<div class="infoclass"><strong>Topu</strong><br />
-Phone: <a class="telephone" href="tel:01713613039">01713613039</a></div>
-
-<p style="text-align: center;"><u><strong>9th Batch</strong></u></p>
-
-<div class="infoclass"><strong>Shipon</strong><br />
-Phone: <a class="telephone" href="tel:01676455064">01676455064</a></div>
-
-
-<p style="text-align: center;"><u><strong>10th Batch</strong></u></p>
-
-<div class="infoclass"><strong>Sagirul Alam</strong><br />
-Phone: <a class="telephone" href="tel:01710466921">01710-466921</a></div>
-
-</div></div><div class="demo-frame">
-<a style="text-decoration:none" href="#"><div id="expander1" class="headertitle expander">Food Technology and Nutrition Science(FTNS 08)</div></a>
-
-<div class="content">
-
-<p style="text-align: center;"><u><strong>7th Batch</strong></u></p>
-
-<div class="infoclass"><strong>Ratul Miraz</strong><br />
-Phone: <a class="telephone" href="tel:01917904877">01917904877</a></div>
-
-<div class="infoclass">CR(Female)<br />
-<strong>Sanzida shorony</strong></div>
-
-<p style="text-align: center;"><u><strong>8th Batch</strong></u></p>
-
-<div class="infoclass"><strong>Md. Nur Alom Prince</strong><br />
-Phone: <a class="telephone" href="tel:01731734741">01731734741</a></div>
-
-<div class="infoclass">CR(Female):<br />
-<strong><span class="null">Mayurakhsi Chowdhury</span></strong></div>
-
-<p style="text-align: center;"><u><strong>9th batch</strong></u></p>
-
-<div class="infoclass"><strong>Arefin Ishat</strong><br />
-Phone: <a class="telephone" href="tel:01671651155">01671651155</a></div>
-
-<div class="infoclass">CR(Female)<br />
-<strong>Israt Jahan Jeny</strong></div>
-
-<p style="text-align: center;"><u><strong>10th batch</strong></u></p>
-
-<div class="infoclass"><strong>Jilon</strong><br />
-Phone: <a class="telephone" href="tel:01815811202">01815811202</a></div>
-
-
-</div></div><div class="demo-frame">
-<a style="text-decoration:none" href="#"><div id="expander1" class="headertitle expander">Environmental Science and Hazard Studies(ESHS 09)</div></a>
-
-<div class="content">
-
-<p style="text-align: center;"><u><strong>7th batch</strong></u></p>
-
-<div class="infoclass"><strong>Sovel Ahsan</strong><br />
-Phone: <a class="telephone" href="tel:01672783818">01672783818</a></div>
-
-<p style="text-align: center;"><u><strong>8th Batch</strong></u></p>
-
-<div class="infoclass"><strong><span data-ft="{&quot;tn&quot;:&quot;K&quot;}" data-reactid=".5i6.1:3:1:$comment337534039766637_337681196418588:0.0.$right.0.$left.0.0.1:$comment-body"><span class="UFICommentBody" data-reactid=".5i6.1:3:1:$comment337534039766637_337681196418588:0.0.$right.0.$left.0.0.1:$comment-body.0"><span data-reactid=".5i6.1:3:1:$comment337534039766637_337681196418588:0.0.$right.0.$left.0.0.1:$comment-body.0.$end:0:$0:0">Md.Obaydullah Al Hasib</span></span></span></strong><br />
-Phone: <a class="telephone" href="tel:01926863669">01926863669</a></div>
-
-<div class="infoclass"><strong>CR(Female)</strong><br />
-Jobaida Soma</div>
-
-<p style="text-align: center;"><u><strong>9th Batch</strong></u></p>
-
-<div class="infoclass"><strong>Tajbib</strong><br />
-Phone: <a class="telephone" href="tel:01781939371">01781939371</a></div>
-
-<p style="text-align: center;"><u><strong>10th Batch</strong></u></p>
-<div class="infoclass"><strong>Bappi</strong><br />
-Phone: <a class="telephone" href="tel:01676123504">01676123504</a></div>
-
-</div></div><div class="demo-frame">
-<a style="text-decoration:none" href="#"><div id="expander1" class="headertitle expander">Business Administration(BA 10)</div></a>
-
-<div class="content">
-
-<p style="text-align: center;"><strong><u>7th Batch</u></strong></p>
-
-<div class="infoclass"><strong>Farhad</strong><br />
-Phone: <a class="telephone" href="tel:01744845755">01744845755</a></div>
-
-<div class="infoclass">CR(Female)<br />
-<strong>Fatema Binte Siraj</strong></div>
-
-<p style="text-align: center;"><strong><u>8th Batch</u></strong></p>
-
-<div class="infoclass"><strong>Araf</strong><br />
-Phone: <a class="telephone" href="tel:01681769668">01681769668</a></div>
-
-<div class="infoclass">CR(Female)<br />
-<strong>Tazrin Jahan Jinia</strong></div>
-
-<p style="text-align: center;"><u><strong>9th Batch</strong></u></p>
-
-<div class="infoclass"><strong>Bijoy</strong><br />
-Phone: <a class="telephone" href="tel:01834063347">01834063347</a></div>
-
-<div class="infoclass">CR(Female)<br />
-<strong>Bina</strong></div>
-
-
-<p style="text-align: center;"><u><strong>10th Batch</strong></u></p>
-
-<div class="infoclass"><strong>Nayan</strong><br />
-Phone: <a class="telephone" href="tel:01676056347">01676056347</a></div>
-
-<div class="infoclass">CR(Female)<br />
-<strong>Muntaha Azmi</strong></div>
-
-</div></div><div class="demo-frame">
-<a style="text-decoration:none" href="#"><div id="expander1" class="headertitle expander">Information and Communication Technology(ICT 11)</div></a>
-
-<div class="content">
-
-<p style="text-align: center;"><u><strong>8th batch</strong></u></p>
-
-<div class="infoclass"><strong>Shaon Acharjee</strong><br />
-Phone: <a class="telephone" href="tel:01926140813">01926140813</a></div>
-
-<div class="infoclass">CR(Female)<br />
-<strong>Jesmin Akter</strong></div>
-
-<p style="text-align: center;"><u><strong>9th Batch</strong></u></p>
-
-<div class="infoclass"><strong>Riazul haydar Robi</strong><br />
-Phone: <a class="telephone" href="tel:01933056866">01933056866</a></div>
-
-<div class="infoclass">CR(Female)<br />
-<strong>Samiya chawdhuri Sarna</strong></div>
-
-<p style="text-align: center;"><u><strong>10th Batch</strong></u></p>
-
-<div class="infoclass"><strong>Kamrul Hasan</strong><br />
-Phone: <a class="telephone" href="tel:01773138682">01773138682</a></div>
-
-<div class="infoclass">CR(Female)<br />
-<strong>NIsha Nahar</strong></div>
-
-
-</div></div><div class="demo-frame">
-<a style="text-decoration:none" href="#"><div id="expander1" class="headertitle expander">Biotechnology and Genetic Engineering(BGE 12)</div></a>
-
-<div class="content">
-
-<p style="text-align: center;"><strong><u>8th Batch</u></strong></p>
-
-<div class="infoclass"><strong>Md. Main Uddin Arif</strong><br />
-Phone: <a class="telephone" href="tel:01683228206">01683228206</a></div>
-
-<div style="text-align: center;"><u><strong>9th Batch</strong></u></div>
-
-<div class="infoclass"><strong>Anisur Rahman</strong><br />
-Phone: <a class="telephone" href="tel:01623092488">01623092488</a></div>
-
-<p style="text-align: center;"><u><strong>10th Batch</strong></u></p>
-
-<div class="infoclass"><strong>Farhan Shadman Chowdhury</strong><br />
-Phone: <a class="telephone" href="tel:01957307199">01957307199</a></div>
-
-<div class="infoclass">CR(Female)<br />
-<strong>Soili Mondol</strong></div>
-
-
-</div></div><div class="demo-frame">
-<a style="text-decoration:none" href="#"><div id="expander1" class="headertitle expander">Economics and Poverty Studies(EPS 13)</div></a>
-
-<div class="content">
-
-<p style="text-align: center;"><u><strong>8th Batch</strong></u></p>
-
-<div class="infoclass"><strong>Md. Mahmudul Islam Khan(Shiblu)</strong><br />
-Phone: <a class="telephone" href="tel:01687004274">01687004274</a><br />
-website: <a href="http://www.economicsbd.com">www.economicsbd.com</a><br />
-Fb Page: <a href="http://www.facebook.com/economicsbdmagazine">www.facebook.com/economicsbdmagazine</a></div>
-
-<div class="infoclass"><strong>Tonmoy</strong><br />
-Phone: <a class="telephone" href="tel:01673290398">01673290398</a></div>
-
-<div class="infoclass">CR(Female)<br />
-<strong>Tahrima Sultana</strong></div>
-
-<p style="text-align: center;"><u><strong>9th Batch</strong></u></p>
-
-<div class="infoclass"><strong>Akter</strong><br />
-Phone: <a class="telephone" href="tel:01739589059">01739589059</a></div>
-
-<p style="text-align: center;"><u><strong>10th Batch</strong></u></p>
-
-<div class="infoclass"><strong>Sojib</strong><br />
-Phone: <a class="telephone" href="tel:01981320661">01981320661</a></div>
-
-</div></div><div class="demo-frame">
-<a style="text-decoration:none" href="#"><div id="expander1" class="headertitle expander">Coastal Agriculture (CA 14)</div></a>
-
-<div class="content">
-<p style="text-align: center;"><u><strong>8th Batch</strong></u></p>
-
-<div class="infoclass"><strong>Abdullah al Noman</strong><br />
-Phone: <a class="telephone" href="tel:01674592648">01674592648</a></div>
-
-<p style="text-align: center;"><strong><u>9th Batch</u></strong></p>
-<div class="infoclass">
-<strong>Rafat nur abdullah</strong><br />
-Phone: <a class="telephone" href="tel:01682923290">01682923290</a></div>
-<div class="infoclass">CR(Female)<br />
-<strong>Sabrina jahan rimi</strong></div>
-<p style="text-align: center;"><strong><u>10th Batch</u></strong></p>
-
-<div class="infoclass"><strong>Ohi Alam</strong><br />
-Phone: <a class="telephone" href="tel:01677139317">01677139317</a></div>
-</div></div></div>
-",
+"},
+  {"tag":"div","class":"maintitle","html":"Class Representative"},
+  {"tag":"div","class":"demo-frame","children":[
+      {"tag":"a","style":"text-decoration:none","href":"#","children":[
+          {"tag":"div","id":"expander1","class":"headertitle expander","html":"Computer Science and Telecommunication Engineering (CSTE 01)"}
+        ]},
+      {"tag":"div","class":"content","children":[
+          {"tag":"p","style":"text-align: center;","children":[
+              {"tag":"strong","children":[
+                  {"tag":"u","html":"5th Batch"}
+                ]}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"strong","html":"Syful Islam"},
+              {"tag":"br","html":""},
+              {"tag":"a","class":"telephone","href":"tel:01823024498","html":"01823024498"}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"br","html":""},
+              {"tag":"strong","html":"Nabanita BISWAS"}
+            ]},
+          {"tag":"p","style":"text-align: center;","children":[
+              {"tag":"u","children":[
+                  {"tag":"strong","html":"6th Batch"}
+                ]}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"strong","html":"Azizul Hakim Suzan"},
+              {"tag":"br","html":""},
+              {"tag":"a","class":"telephone","href":"tel:01912675208","html":"01912675208"}
+            ]},
+          {"tag":"p","style":"text-align: center;","children":[
+              {"tag":"u","children":[
+                  {"tag":"strong","html":"7th Batch"}
+                ]}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"strong","html":"Mukit Ahmed Khan"},
+              {"tag":"br","html":""},
+              {"tag":"a","class":"telephone","href":"tel:01816069622","html":"01816069622"}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"br","html":""},
+              {"tag":"b","html":"Tahmina Akter Tani"}
+            ]},
+          {"tag":"p","style":"text-align: center;","children":[
+              {"tag":"strong","children":[
+                  {"tag":"u","html":" 8th Batch"}
+                ]}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"strong","html":"Asim Biswas"},
+              {"tag":"br","html":""},
+              {"tag":"a","class":"telephone","href":"tel:01738901346","html":"01738901346"}
+            ]},
+          {"tag":"p","style":"text-align: center;","children":[
+              {"tag":"u","children":[
+                  {"tag":"strong","html":" 9th batch"}
+                ]}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"strong","html":"Mukarrom Yahiya"},
+              {"tag":"br","html":""},
+              {"tag":"a","class":"telephone","href":"tel:01672216547","html":"01672216547"}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"strong","html":"Robiul Auwal"},
+              {"tag":"br","html":""},
+              {"tag":"a","class":"telephone","href":"tel:01827893381","html":"01827893381"}
+            ]},
+          {"tag":"p","style":"text-align: center;","children":[
+              {"tag":"u","children":[
+                  {"tag":"strong","html":" 10th batch"}
+                ]}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"strong","html":"Sohel Rana"},
+              {"tag":"br","html":""},
+              {"tag":"a","class":"telephone","href":"tel:01861625909","html":"01861625909"}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"br","html":""},
+              {"tag":"b","html":"Tahin Sharmin"}
+            ]}
+        ]}
+    ]},
+  {"tag":"div","class":"demo-frame","children":[
+      {"tag":"a","style":"text-decoration:none","href":"#","children":[
+          {"tag":"div","id":"expander1","class":"headertitle expander","html":"Fisheries and Marine Science (FIMS 02)"}
+        ]},
+      {"tag":"div","class":"content","children":[
+          {"tag":"p","style":"text-align: center;","children":[
+              {"tag":"u","children":[
+                  {"tag":"strong","html":"5th Batch"}
+                ]}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"strong","html":"Jakir Hossain"},
+              {"tag":"br","html":""},
+              {"tag":"a","class":"telephone","href":"tel:01829604553","html":"01829604553"}
+            ]},
+          {"tag":"p","style":"text-align: center;","children":[
+              {"tag":"u","children":[
+                  {"tag":"strong","html":"6th batch"}
+                ]}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"strong","html":"Jewel Pall"},
+              {"tag":"br","html":""},
+              {"tag":"a","class":"telephone","href":"tel:01741250937","html":"01741250937"}
+            ]},
+          {"tag":"p","style":"text-align: center;","children":[
+              {"tag":"u","children":[
+                  {"tag":"strong","html":"7th Batch"}
+                ]}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"strong","html":"Maruf Hossain"},
+              {"tag":"br","html":""},
+              {"tag":"a","class":"telephone","href":"tel:01826573412","html":"01826573412"}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"br","html":""},
+              {"tag":"b","html":"Sumaia Akter"}
+            ]},
+          {"tag":"p","style":"text-align: center;","children":[
+              {"tag":"u","children":[
+                  {"tag":"strong","html":"8th Batch"}
+                ]}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"strong","children":[
+                  {"tag":"span","data-ft":"{"tn":"K"}","data-reactid":".5i6.1:3:1:$comment337534039766637_337548096431898:0.0.$right.0.$left.0.0.1:$comment-body","children":[
+                      {"tag":"span","class":"UFICommentBody","data-reactid":".5i6.1:3:1:$comment337534039766637_337548096431898:0.0.$right.0.$left.0.0.1:$comment-body.0","children":[
+                          {"tag":"span","data-reactid":".5i6.1:3:1:$comment337534039766637_337548096431898:0.0.$right.0.$left.0.0.1:$comment-body.0.$end:0:$0:0","html":"Badsha Fahad"}
+                        ]}
+                    ]}
+                ]},
+              {"tag":"br","html":""},
+              {"tag":"a","class":"telephone","href":"tel:01818967555","html":"01818967555"}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"strong","html":"CR(Female)"},
+              {"tag":"br","html":""}
+            ]},
+          {"tag":"p","style":"text-align: center;","children":[
+              {"tag":"strong","children":[
+                  {"tag":"u","html":"9th Batch"}
+                ]}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"strong","html":"Md.Rashedul haque Selim"},
+              {"tag":"br","html":""},
+              {"tag":"a","class":"telephone","href":"tel:0167378827","html":"0167378827"}
+            ]},
+          {"tag":"div","children":[
+              {"tag":"div","class":"infoclass","children":[
+                  {"tag":"br","html":""},
+                  {"tag":"strong","html":"Sabrina Sharmin"}
+                ]}
+            ]},
+          {"tag":"p","style":"text-align: center;","children":[
+              {"tag":"strong","children":[
+                  {"tag":"u","html":"10th Batch"}
+                ]}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"strong","html":"md shafawat hossain"},
+              {"tag":"br","html":""},
+              {"tag":"a","class":"telephone","href":"tel:01845819902","html":"01845819902"}
+            ]}
+        ]}
+    ]},
+  {"tag":"div","class":"demo-frame","children":[
+      {"tag":"a","style":"text-decoration:none","href":"#","children":[
+          {"tag":"div","id":"expander1","class":"headertitle expander","html":"Pharmacy (code 03)"}
+        ]},
+      {"tag":"div","class":"content","children":[
+          {"tag":"p","style":"text-align: center;","children":[
+              {"tag":"u","children":[
+                  {"tag":"strong","html":"5th batch"}
+                ]}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"strong","html":"Shalahuddin Millat"},
+              {"tag":"br","html":""},
+              {"tag":"a","class":"telephone","href":"tel:01834136774","html":"01834136774"}
+            ]},
+          {"tag":"p","style":"text-align: center;","children":[
+              {"tag":"u","children":[
+                  {"tag":"strong","html":"6th Batch"}
+                ]}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"strong","html":"Mainul Islam Sabbir"},
+              {"tag":"br","html":""},
+              {"tag":"a","class":"telephone","href":"tel:01674055971","html":"01674055971"}
+            ]},
+          {"tag":"p","style":"text-align: center;","children":[
+              {"tag":"u","children":[
+                  {"tag":"strong","html":"7th batch"}
+                ]}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"strong","html":"GM Saiful Islam"},
+              {"tag":"span","class":"null","html":"Asif"},
+              {"tag":"br","html":""},
+              {"tag":"a","class":"telephone","href":"tel:01820153827","html":"01820153827"}
+            ]},
+          {"tag":"p","style":"text-align: center;","children":[
+              {"tag":"u","children":[
+                  {"tag":"strong","html":"8th batch"}
+                ]}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"strong","html":"Jakir Hossain"},
+              {"tag":"br","html":""},
+              {"tag":"a","class":"telephone","href":"tel:01815718030","html":"01815718030"}
+            ]},
+          {"tag":"p","style":"text-align: center;","children":[
+              {"tag":"u","children":[
+                  {"tag":"strong","html":"9th batch"}
+                ]}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"strong","html":"Pulak chowdhury"},
+              {"tag":"br","html":""},
+              {"tag":"a","class":"telephone","href":"tel:01815503418","html":"01815503418"}
+            ]},
+          {"tag":"p","style":"text-align: center;","children":[
+              {"tag":"strong","children":[
+                  {"tag":"u","html":"10th Batch"}
+                ]}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"strong","html":"Ohidur Reaz"},
+              {"tag":"br","html":""},
+              {"tag":"a","class":"telephone","href":"tel:01717801198","html":"01717801198"}
+            ]},
+          {"tag":"div","children":[
+              {"tag":"div","class":"infoclass","children":[
+                  {"tag":"br","html":""},
+                  {"tag":"strong","html":"iifa rahman"}
+                ]}
+            ]}
+        ]}
+    ]},
+  {"tag":"div","class":"demo-frame","children":[
+      {"tag":"a","style":"text-decoration:none","href":"#","children":[
+          {"tag":"div","id":"expander1","class":"headertitle expander","html":"Applied Chemistry & Chemical Engineering (ACCE 04)"}
+        ]},
+      {"tag":"div","class":"content","children":[
+          {"tag":"p","style":"text-align: center;","children":[
+              {"tag":"u","children":[
+                  {"tag":"strong","html":"5th Batch"}
+                ]}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"strong","html":"Rashed"},
+              {"tag":"br","html":""},
+              {"tag":"a","class":"telephone","href":"tel:01673563130","html":"01673563130"}
+            ]},
+          {"tag":"p","style":"text-align: center;","children":[
+              {"tag":"u","children":[
+                  {"tag":"strong","html":"6th Batch"}
+                ]}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"strong","html":"Saiful"},
+              {"tag":"br","html":""},
+              {"tag":"a","class":"telephone","href":"tel:01670307117","html":"01670307117"}
+            ]},
+          {"tag":"p","style":"text-align: center;","children":[
+              {"tag":"u","children":[
+                  {"tag":"strong","html":"7th Batch"}
+                ]}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"strong","html":"Mohammad Mehedi Hasan"},
+              {"tag":"br","html":""},
+              {"tag":"a","class":"telephone","href":"tel:01770276383","html":"01770276383"}
+            ]},
+          {"tag":"p","style":"text-align: center;","children":[
+              {"tag":"u","children":[
+                  {"tag":"strong","html":"8th Batch"}
+                ]}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"strong","html":"Saikot"},
+              {"tag":"br","html":""},
+              {"tag":"a","class":"telephone","href":"tel:01815807458","html":"01815807458"}
+            ]},
+          {"tag":"p","style":"text-align: center;","children":[
+              {"tag":"u","children":[
+                  {"tag":"strong","html":"9th Batch"}
+                ]}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"strong","html":"Sohag"},
+              {"tag":"br","html":""},
+              {"tag":"a","class":"telephone","href":"tel:01684007742","html":"01684007742"}
+            ]},
+          {"tag":"p","style":"text-align: center;","children":[
+              {"tag":"u","children":[
+                  {"tag":"strong","html":"10th Batch"}
+                ]}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"strong","html":"Bijoy Bhowmick"},
+              {"tag":"br","html":""},
+              {"tag":"a","class":"telephone","href":"tel:01625606730","html":"01625606730"}
+            ]}
+        ]}
+    ]},
+  {"tag":"div","class":"demo-frame","children":[
+      {"tag":"a","style":"text-decoration:none","href":"#","children":[
+          {"tag":"div","id":"expander1","class":"headertitle expander","html":"Microbiology (MBG 05)"}
+        ]},
+      {"tag":"div","class":"content","children":[
+          {"tag":"p","style":"text-align: center;","children":[
+              {"tag":"u","children":[
+                  {"tag":"strong","html":"5th Batch"}
+                ]}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"strong","html":"Robin"},
+              {"tag":"br","html":""},
+              {"tag":"a","class":"telephone","href":"tel:01758863333","html":"01758863333"}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"br","html":""},
+              {"tag":"strong","html":"Sajeda Nishat"}
+            ]},
+          {"tag":"p","style":"text-align: center;","children":[
+              {"tag":"u","children":[
+                  {"tag":"strong","html":"6th Batch"}
+                ]}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"strong","html":"Prince"},
+              {"tag":"br","html":""},
+              {"tag":"a","class":"telephone","href":"tel:01735698084","html":"01735698084"}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"br","html":""},
+              {"tag":"strong","html":"Sumita"}
+            ]},
+          {"tag":"p","style":"text-align: center;","children":[
+              {"tag":"u","children":[
+                  {"tag":"strong","html":"7th Batch"}
+                ]}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"strong","html":"Arafat"},
+              {"tag":"br","html":""},
+              {"tag":"a","class":"telephone","href":"tel:01814743728","html":"01814743728"}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"br","html":""},
+              {"tag":"strong","html":"Jannatul Fiza"}
+            ]},
+          {"tag":"p","style":"text-align: center;","children":[
+              {"tag":"u","children":[
+                  {"tag":"strong","html":"8th Batch"}
+                ]}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"strong","html":"Pial"},
+              {"tag":"br","html":""},
+              {"tag":"a","class":"telephone","href":"tel:01726117509","html":"01726117509"}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"br","html":""},
+              {"tag":"strong","html":"Razia Sultana"}
+            ]},
+          {"tag":"p","style":"text-align: center;","children":[
+              {"tag":"strong","children":[
+                  {"tag":"u","html":"9th batch"}
+                ]}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"strong","html":"Aminul"},
+              {"tag":"br","html":""},
+              {"tag":"a","class":"telephone","href":"tel:01734452665","html":"01734452665"}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"br","html":""},
+              {"tag":"strong","html":"Afnan Ashan"}
+            ]},
+          {"tag":"p","style":"text-align: center;","children":[
+              {"tag":"strong","children":[
+                  {"tag":"u","html":"10th batch"}
+                ]}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"strong","html":"Habib"},
+              {"tag":"br","html":""},
+              {"tag":"a","class":"telephone","href":"tel:01626708616","html":"01626708616"}
+            ]}
+        ]}
+    ]},
+  {"tag":"div","class":"demo-frame","children":[
+      {"tag":"a","style":"text-decoration:none","href":"#","children":[
+          {"tag":"div","id":"expander1","class":"headertitle expander","html":"Applied Mathematics (A. MTH 05)"}
+        ]},
+      {"tag":"div","class":"content","children":[
+          {"tag":"p","style":"text-align: center;","children":[
+              {"tag":"u","children":[
+                  {"tag":"strong","html":"6th Batch"}
+                ]}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"strong","html":"Sohag"},
+              {"tag":"br","html":""},
+              {"tag":"a","class":"telephone","href":"tel:01811849284","html":"01811849284"}
+            ]},
+          {"tag":"p","style":"text-align: center;","children":[
+              {"tag":"u","children":[
+                  {"tag":"strong","html":"7th Batch"}
+                ]}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"strong","html":"Ibrahim"},
+              {"tag":"br","html":""},
+              {"tag":"a","class":"telephone","href":"tel:01520103233","html":"01520103233"}
+            ]},
+          {"tag":"p","style":"text-align: center;","children":[
+              {"tag":"u","children":[
+                  {"tag":"strong","html":"8th Batch"}
+                ]}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"strong","html":"Roni"},
+              {"tag":"br","html":""},
+              {"tag":"a","class":"telephone","href":"tel:01925092949","html":"01925092949"}
+            ]},
+          {"tag":"p","style":"text-align: center;","children":[
+              {"tag":"u","children":[
+                  {"tag":"strong","html":"9th Batch"}
+                ]}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"strong","html":"MOHAMMAD ANAS"},
+              {"tag":"br","html":""},
+              {"tag":"a","class":"telephone","href":"tel:01915529666","html":"01915529666"}
+            ]},
+          {"tag":"p","style":"text-align: center;","children":[
+              {"tag":"u","children":[
+                  {"tag":"strong","html":"10th Batch"}
+                ]}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"strong","html":"RIAZ MAHMUD"},
+              {"tag":"br","html":""},
+              {"tag":"a","class":"telephone","href":"tel:01750687943","html":"01750687943"}
+            ]}
+        ]}
+    ]},
+  {"tag":"div","class":"demo-frame","children":[
+      {"tag":"a","style":"text-decoration:none","href":"#","children":[
+          {"tag":"div","id":"expander1","class":"headertitle expander","html":"English (07)"}
+        ]},
+      {"tag":"div","class":"content","children":[
+          {"tag":"p","style":"text-align: center;","children":[
+              {"tag":"u","children":[
+                  {"tag":"strong","html":"6th Batch"}
+                ]}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"strong","html":"Sadek"},
+              {"tag":"br","html":""},
+              {"tag":"a","class":"telephone","href":"tel:01830790720","html":"01830790720"}
+            ]},
+          {"tag":"p","style":"text-align: center;","children":[
+              {"tag":"u","children":[
+                  {"tag":"strong","html":"7th Batch"}
+                ]}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"strong","html":"Hira"},
+              {"tag":"br","html":""},
+              {"tag":"a","class":"telephone","href":"tel:01916141483","html":"01916141483"}
+            ]},
+          {"tag":"p","style":"text-align: center;","children":[
+              {"tag":"u","children":[
+                  {"tag":"strong","html":"8th Batch"}
+                ]}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"strong","html":"Topu"},
+              {"tag":"br","html":""},
+              {"tag":"a","class":"telephone","href":"tel:01713613039","html":"01713613039"}
+            ]},
+          {"tag":"p","style":"text-align: center;","children":[
+              {"tag":"u","children":[
+                  {"tag":"strong","html":"9th Batch"}
+                ]}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"strong","html":"Shipon"},
+              {"tag":"br","html":""},
+              {"tag":"a","class":"telephone","href":"tel:01676455064","html":"01676455064"}
+            ]},
+          {"tag":"p","style":"text-align: center;","children":[
+              {"tag":"u","children":[
+                  {"tag":"strong","html":"10th Batch"}
+                ]}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"strong","html":"Sagirul Alam"},
+              {"tag":"br","html":""},
+              {"tag":"a","class":"telephone","href":"tel:01710466921","html":"01710-466921"}
+            ]}
+        ]}
+    ]},
+  {"tag":"div","class":"demo-frame","children":[
+      {"tag":"a","style":"text-decoration:none","href":"#","children":[
+          {"tag":"div","id":"expander1","class":"headertitle expander","html":"Food Technology and Nutrition Science(FTNS 08)"}
+        ]},
+      {"tag":"div","class":"content","children":[
+          {"tag":"p","style":"text-align: center;","children":[
+              {"tag":"u","children":[
+                  {"tag":"strong","html":"7th Batch"}
+                ]}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"strong","html":"Ratul Miraz"},
+              {"tag":"br","html":""},
+              {"tag":"a","class":"telephone","href":"tel:01917904877","html":"01917904877"}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"br","html":""},
+              {"tag":"strong","html":"Sanzida shorony"}
+            ]},
+          {"tag":"p","style":"text-align: center;","children":[
+              {"tag":"u","children":[
+                  {"tag":"strong","html":"8th Batch"}
+                ]}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"strong","html":"Md. Nur Alom Prince"},
+              {"tag":"br","html":""},
+              {"tag":"a","class":"telephone","href":"tel:01731734741","html":"01731734741"}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"br","html":""},
+              {"tag":"strong","children":[
+                  {"tag":"span","class":"null","html":"Mayurakhsi Chowdhury"}
+                ]}
+            ]},
+          {"tag":"p","style":"text-align: center;","children":[
+              {"tag":"u","children":[
+                  {"tag":"strong","html":"9th batch"}
+                ]}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"strong","html":"Arefin Ishat"},
+              {"tag":"br","html":""},
+              {"tag":"a","class":"telephone","href":"tel:01671651155","html":"01671651155"}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"br","html":""},
+              {"tag":"strong","html":"Israt Jahan Jeny"}
+            ]},
+          {"tag":"p","style":"text-align: center;","children":[
+              {"tag":"u","children":[
+                  {"tag":"strong","html":"10th batch"}
+                ]}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"strong","html":"Jilon"},
+              {"tag":"br","html":""},
+              {"tag":"a","class":"telephone","href":"tel:01815811202","html":"01815811202"}
+            ]}
+        ]}
+    ]},
+  {"tag":"div","class":"demo-frame","children":[
+      {"tag":"a","style":"text-decoration:none","href":"#","children":[
+          {"tag":"div","id":"expander1","class":"headertitle expander","html":"Environmental Science and Hazard Studies(ESHS 09)"}
+        ]},
+      {"tag":"div","class":"content","children":[
+          {"tag":"p","style":"text-align: center;","children":[
+              {"tag":"u","children":[
+                  {"tag":"strong","html":"7th batch"}
+                ]}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"strong","html":"Sovel Ahsan"},
+              {"tag":"br","html":""},
+              {"tag":"a","class":"telephone","href":"tel:01672783818","html":"01672783818"}
+            ]},
+          {"tag":"p","style":"text-align: center;","children":[
+              {"tag":"u","children":[
+                  {"tag":"strong","html":"8th Batch"}
+                ]}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"strong","children":[
+                  {"tag":"span","data-ft":"{"tn":"K"}","data-reactid":".5i6.1:3:1:$comment337534039766637_337681196418588:0.0.$right.0.$left.0.0.1:$comment-body","children":[
+                      {"tag":"span","class":"UFICommentBody","data-reactid":".5i6.1:3:1:$comment337534039766637_337681196418588:0.0.$right.0.$left.0.0.1:$comment-body.0","children":[
+                          {"tag":"span","data-reactid":".5i6.1:3:1:$comment337534039766637_337681196418588:0.0.$right.0.$left.0.0.1:$comment-body.0.$end:0:$0:0","html":"Md.Obaydullah Al Hasib"}
+                        ]}
+                    ]}
+                ]},
+              {"tag":"br","html":""},
+              {"tag":"a","class":"telephone","href":"tel:01926863669","html":"01926863669"}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"strong","html":"CR(Female)"},
+              {"tag":"br","html":""}
+            ]},
+          {"tag":"p","style":"text-align: center;","children":[
+              {"tag":"u","children":[
+                  {"tag":"strong","html":"9th Batch"}
+                ]}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"strong","html":"Tajbib"},
+              {"tag":"br","html":""},
+              {"tag":"a","class":"telephone","href":"tel:01781939371","html":"01781939371"}
+            ]},
+          {"tag":"p","style":"text-align: center;","children":[
+              {"tag":"u","children":[
+                  {"tag":"strong","html":"10th Batch"}
+                ]}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"strong","html":"Bappi"},
+              {"tag":"br","html":""},
+              {"tag":"a","class":"telephone","href":"tel:01676123504","html":"01676123504"}
+            ]}
+        ]}
+    ]},
+  {"tag":"div","class":"demo-frame","children":[
+      {"tag":"a","style":"text-decoration:none","href":"#","children":[
+          {"tag":"div","id":"expander1","class":"headertitle expander","html":"Business Administration(BA 10)"}
+        ]},
+      {"tag":"div","class":"content","children":[
+          {"tag":"p","style":"text-align: center;","children":[
+              {"tag":"strong","children":[
+                  {"tag":"u","html":"7th Batch"}
+                ]}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"strong","html":"Farhad"},
+              {"tag":"br","html":""},
+              {"tag":"a","class":"telephone","href":"tel:01744845755","html":"01744845755"}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"br","html":""},
+              {"tag":"strong","html":"Fatema Binte Siraj"}
+            ]},
+          {"tag":"p","style":"text-align: center;","children":[
+              {"tag":"strong","children":[
+                  {"tag":"u","html":"8th Batch"}
+                ]}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"strong","html":"Araf"},
+              {"tag":"br","html":""},
+              {"tag":"a","class":"telephone","href":"tel:01681769668","html":"01681769668"}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"br","html":""},
+              {"tag":"strong","html":"Tazrin Jahan Jinia"}
+            ]},
+          {"tag":"p","style":"text-align: center;","children":[
+              {"tag":"u","children":[
+                  {"tag":"strong","html":"9th Batch"}
+                ]}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"strong","html":"Bijoy"},
+              {"tag":"br","html":""},
+              {"tag":"a","class":"telephone","href":"tel:01834063347","html":"01834063347"}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"br","html":""},
+              {"tag":"strong","html":"Bina"}
+            ]},
+          {"tag":"p","style":"text-align: center;","children":[
+              {"tag":"u","children":[
+                  {"tag":"strong","html":"10th Batch"}
+                ]}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"strong","html":"Nayan"},
+              {"tag":"br","html":""},
+              {"tag":"a","class":"telephone","href":"tel:01676056347","html":"01676056347"}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"br","html":""},
+              {"tag":"strong","html":"Muntaha Azmi"}
+            ]}
+        ]}
+    ]},
+  {"tag":"div","class":"demo-frame","children":[
+      {"tag":"a","style":"text-decoration:none","href":"#","children":[
+          {"tag":"div","id":"expander1","class":"headertitle expander","html":"Information and Communication Technology(ICT 11)"}
+        ]},
+      {"tag":"div","class":"content","children":[
+          {"tag":"p","style":"text-align: center;","children":[
+              {"tag":"u","children":[
+                  {"tag":"strong","html":"8th batch"}
+                ]}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"strong","html":"Shaon Acharjee"},
+              {"tag":"br","html":""},
+              {"tag":"a","class":"telephone","href":"tel:01926140813","html":"01926140813"}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"br","html":""},
+              {"tag":"strong","html":"Jesmin Akter"}
+            ]},
+          {"tag":"p","style":"text-align: center;","children":[
+              {"tag":"u","children":[
+                  {"tag":"strong","html":"9th Batch"}
+                ]}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"strong","html":"Riazul haydar Robi"},
+              {"tag":"br","html":""},
+              {"tag":"a","class":"telephone","href":"tel:01933056866","html":"01933056866"}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"br","html":""},
+              {"tag":"strong","html":"Samiya chawdhuri Sarna"}
+            ]},
+          {"tag":"p","style":"text-align: center;","children":[
+              {"tag":"u","children":[
+                  {"tag":"strong","html":"10th Batch"}
+                ]}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"strong","html":"Kamrul Hasan"},
+              {"tag":"br","html":""},
+              {"tag":"a","class":"telephone","href":"tel:01773138682","html":"01773138682"}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"br","html":""},
+              {"tag":"strong","html":"NIsha Nahar"}
+            ]}
+        ]}
+    ]},
+  {"tag":"div","class":"demo-frame","children":[
+      {"tag":"a","style":"text-decoration:none","href":"#","children":[
+          {"tag":"div","id":"expander1","class":"headertitle expander","html":"Biotechnology and Genetic Engineering(BGE 12)"}
+        ]},
+      {"tag":"div","class":"content","children":[
+          {"tag":"p","style":"text-align: center;","children":[
+              {"tag":"strong","children":[
+                  {"tag":"u","html":"8th Batch"}
+                ]}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"strong","html":"Md. Main Uddin Arif"},
+              {"tag":"br","html":""},
+              {"tag":"a","class":"telephone","href":"tel:01683228206","html":"01683228206"}
+            ]},
+          {"tag":"div","style":"text-align: center;","children":[
+              {"tag":"u","children":[
+                  {"tag":"strong","html":"9th Batch"}
+                ]}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"strong","html":"Anisur Rahman"},
+              {"tag":"br","html":""},
+              {"tag":"a","class":"telephone","href":"tel:01623092488","html":"01623092488"}
+            ]},
+          {"tag":"p","style":"text-align: center;","children":[
+              {"tag":"u","children":[
+                  {"tag":"strong","html":"10th Batch"}
+                ]}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"strong","html":"Farhan Shadman Chowdhury"},
+              {"tag":"br","html":""},
+              {"tag":"a","class":"telephone","href":"tel:01957307199","html":"01957307199"}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"br","html":""},
+              {"tag":"strong","html":"Soili Mondol"}
+            ]}
+        ]}
+    ]},
+  {"tag":"div","class":"demo-frame","children":[
+      {"tag":"a","style":"text-decoration:none","href":"#","children":[
+          {"tag":"div","id":"expander1","class":"headertitle expander","html":"Economics and Poverty Studies(EPS 13)"}
+        ]},
+      {"tag":"div","class":"content","children":[
+          {"tag":"p","style":"text-align: center;","children":[
+              {"tag":"u","children":[
+                  {"tag":"strong","html":"8th Batch"}
+                ]}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"strong","html":"Md. Mahmudul Islam Khan(Shiblu)"},
+              {"tag":"br","html":""},
+              {"tag":"a","class":"telephone","href":"tel:01687004274","html":"01687004274"},
+              {"tag":"br","html":""},
+              {"tag":"a","href":"http://www.economicsbd.com","html":"www.economicsbd.com"},
+              {"tag":"br","html":""},
+              {"tag":"a","href":"http://www.facebook.com/economicsbdmagazine","html":"www.facebook.com/economicsbdmagazine"}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"strong","html":"Tonmoy"},
+              {"tag":"br","html":""},
+              {"tag":"a","class":"telephone","href":"tel:01673290398","html":"01673290398"}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"br","html":""},
+              {"tag":"strong","html":"Tahrima Sultana"}
+            ]},
+          {"tag":"p","style":"text-align: center;","children":[
+              {"tag":"u","children":[
+                  {"tag":"strong","html":"9th Batch"}
+                ]}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"strong","html":"Akter"},
+              {"tag":"br","html":""},
+              {"tag":"a","class":"telephone","href":"tel:01739589059","html":"01739589059"}
+            ]},
+          {"tag":"p","style":"text-align: center;","children":[
+              {"tag":"u","children":[
+                  {"tag":"strong","html":"10th Batch"}
+                ]}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"strong","html":"Sojib"},
+              {"tag":"br","html":""},
+              {"tag":"a","class":"telephone","href":"tel:01981320661","html":"01981320661"}
+            ]}
+        ]}
+    ]},
+  {"tag":"div","class":"demo-frame","children":[
+      {"tag":"a","style":"text-decoration:none","href":"#","children":[
+          {"tag":"div","id":"expander1","class":"headertitle expander","html":"Coastal Agriculture (CA 14)"}
+        ]},
+      {"tag":"div","class":"content","children":[
+          {"tag":"p","style":"text-align: center;","children":[
+              {"tag":"u","children":[
+                  {"tag":"strong","html":"8th Batch"}
+                ]}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"strong","html":"Abdullah al Noman"},
+              {"tag":"br","html":""},
+              {"tag":"a","class":"telephone","href":"tel:01674592648","html":"01674592648"}
+            ]},
+          {"tag":"p","style":"text-align: center;","children":[
+              {"tag":"strong","children":[
+                  {"tag":"u","html":"9th Batch"}
+                ]}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"strong","html":"Rafat nur abdullah"},
+              {"tag":"br","html":""},
+              {"tag":"a","class":"telephone","href":"tel:01682923290","html":"01682923290"}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"br","html":""},
+              {"tag":"strong","html":"Sabrina jahan rimi"}
+            ]},
+          {"tag":"p","style":"text-align: center;","children":[
+              {"tag":"strong","children":[
+                  {"tag":"u","html":"10th Batch"}
+                ]}
+            ]},
+          {"tag":"div","class":"infoclass","children":[
+              {"tag":"strong","html":"Ohi Alam"},
+              {"tag":"br","html":""},
+              {"tag":"a","class":"telephone","href":"tel:01677139317","html":"01677139317"}
+            ]}
+        ]}
+    ]}
+]",
       "categories": [
         "Android"
       ],
