@@ -25,7 +25,15 @@
     },
     {
       "title": " Android | Taking Photos with Android Camera ",
-      "url": "",
+      "url": "<!DOCTYPE html>
+<html lang="en-US">
+<body>
+
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
+
+</body>
+</html>",
       "categories": [
         "Android"
       ],
