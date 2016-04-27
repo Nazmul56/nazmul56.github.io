@@ -1,0 +1,27 @@
+{
+  "articleList": [
+    {
+      "title": "Android Internet Connection Using HTTP GET (HttpClient)",
+      "url": "http://hmkcode.com/android-internet-connection-using-http-get-httpclient/",
+      "categories": [
+        "Android"
+      ],
+      "tags": [
+        "android",
+        "httpclient",
+        "internet"
+      ]
+    },
+    {
+      "title": " Android | Taking Photos with Android Camera ",
+      "url": "http://hmkcode.com/android-camera-taking-photos-camera/",
+      "categories": [
+        "Android"
+      ],
+      "tags": [
+        "android",
+        "camera"
+      ]
+    }
+  ]
+}
