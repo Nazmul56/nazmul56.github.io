@@ -27,13 +27,19 @@
       "title": "Android Html view with CSS, Java Script",
       "url": "<!DOCTYPE html>
 <html>
-<head>
-<title>Page Title</title>
-</head>
 <body>
 
-<h1>This is a Heading</h1>
-<p>This is a paragraph.</p>
+<p id="demo">Click the button to change the layout of this paragraph</p>
+
+<script>
+function myFunction() {
+    var x = document.getElementById("demo");
+    x.style.fontSize = "25px"; 
+    x.style.color = "red"; 
+}
+</script>
+
+<button onclick="myFunction()">Click Me!</button>
 
 </body>
 </html>",
