@@ -84,6 +84,18 @@ p {
         "android",
         "camera"
       ]
-    } 
+    },
+    {
+      "title": "Message From Developer",
+      "url": "",
+      "categories": [
+        "Android"
+      ],
+      "tags": [
+        "android",
+        "httpclient",
+        "internet"
+      ]
+    }
   ]
 }
