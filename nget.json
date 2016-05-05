@@ -511,6 +511,86 @@ Phone: <a class=\"telephone\" href=\"tel:01711198295\">01711198295</a></div>
         "camera"
       ]
     },
+    
+    {
+      "title": "Android Html view with CSS, Java Script",
+      "url": "<!DOCTYPE html>
+<html>
+<body>
+
+<p id=\"demo\">Click the button to change the layout of this paragraph</p>
+<script>
+function myFunction() \{
+    var x = document.getElementById(\"demo\");
+    x.style.fontSize = \"25px\"; 
+    x.style.color = \"red\"; 
+\}
+</script>
+<button onclick=\"myFunction()\">Click Me!</button>
+</body>
+</html>",
+      "categories": [
+        "Android"
+      ],
+      "tags": [
+        "android",
+        "httpclient",
+        "internet"
+      ]
+    },
+    {
+      "title": "Android Html view with CSS, Java Script",
+      "url": "<!DOCTYPE html>
+<html>
+<body>
+
+<p id=\"demo\">Click the button to change the layout of this paragraph</p>
+<script>
+function myFunction() \{
+    var x = document.getElementById(\"demo\");
+    x.style.fontSize = \"25px\"; 
+    x.style.color = \"red\"; 
+\}
+</script>
+<button onclick=\"myFunction()\">Click Me!</button>
+</body>
+</html>",
+      "categories": [
+        "Android"
+      ],
+      "tags": [
+        "android",
+        "httpclient",
+        "internet"
+      ]
+    },
+    {
+      "title": "Android Html view with CSS, Java Script",
+      "url": "<!DOCTYPE html>
+<html>
+<body>
+
+<p id=\"demo\">Click the button to change the layout of this paragraph</p>
+<script>
+function myFunction() \{
+    var x = document.getElementById(\"demo\");
+    x.style.fontSize = \"25px\"; 
+    x.style.color = \"red\"; 
+\}
+</script>
+<button onclick=\"myFunction()\">Click Me!</button>
+</body>
+</html>",
+      "categories": [
+        "Android"
+      ],
+      "tags": [
+        "android",
+        "httpclient",
+        "internet"
+      ]
+    },
+    
     {
       "title": "Message From Developer",
       "url": "<!DOCTYPE html>
