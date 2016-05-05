@@ -1,6 +1,32 @@
 {
   "articleList": [
     {
+      "title": "Intruduction",
+      "url": "<!DOCTYPE html>
+<html>
+<body>
+
+<p id=\"demo\">Click the button to change the layout of this paragraph</p>
+<script>
+function myFunction() \{
+    var x = document.getElementById(\"demo\");
+    x.style.fontSize = \"25px\"; 
+    x.style.color = \"red\"; 
+\}
+</script>
+<button onclick=\"myFunction()\">Click Me!</button>
+</body>
+</html>",
+      "categories": [
+        "Android"
+      ],
+      "tags": [
+        "android",
+        "httpclient",
+        "internet"
+      ]
+    },
+   {
       "title": "Academic Calendar",
       "url": "<style type=\"text/css\">.infoclass\{ font-size:15px;padding:8px; margin-bottom:3px; border-radius: 3px;  background-color:white;-webkit-box-shadow: inset 0px 0px 2px 0px rgba(49, 50, 50, 0.67);
 -moz-box-shadow:    inset 0px 0px 2px 0px rgba(49, 50, 50, 0.67);
@@ -513,7 +539,7 @@ Phone: <a class=\"telephone\" href=\"tel:01711198295\">01711198295</a></div>
     },
     
     {
-      "title": "Android Html view with CSS, Java Script",
+      "title": "Comittees",
       "url": "<!DOCTYPE html>
 <html>
 <body>
@@ -539,7 +565,7 @@ function myFunction() \{
       ]
     },
     {
-      "title": "Android Html view with CSS, Java Script",
+      "title": "Register Office",
       "url": "<!DOCTYPE html>
 <html>
 <body>
@@ -565,7 +591,7 @@ function myFunction() \{
       ]
     },
     {
-      "title": "Android Html view with CSS, Java Script",
+      "title": "Central Library",
       "url": "<!DOCTYPE html>
 <html>
 <body>
@@ -590,7 +616,188 @@ function myFunction() \{
         "internet"
       ]
     },
-    
+        {
+      "title": "Departments & Teachers",
+      "url": "<!DOCTYPE html>
+<html>
+<body>
+
+<p id=\"demo\">Click the button to change the layout of this paragraph</p>
+<script>
+function myFunction() \{
+    var x = document.getElementById(\"demo\");
+    x.style.fontSize = \"25px\"; 
+    x.style.color = \"red\"; 
+\}
+</script>
+<button onclick=\"myFunction()\">Click Me!</button>
+</body>
+</html>",
+      "categories": [
+        "Android"
+      ],
+      "tags": [
+        "android",
+        "httpclient",
+        "internet"
+      ]
+    },
+        {
+      "title": "Class Representative",
+      "url": "<!DOCTYPE html>
+<html>
+<body>
+
+<p id=\"demo\">Click the button to change the layout of this paragraph</p>
+<script>
+function myFunction() \{
+    var x = document.getElementById(\"demo\");
+    x.style.fontSize = \"25px\"; 
+    x.style.color = \"red\"; 
+\}
+</script>
+<button onclick=\"myFunction()\">Click Me!</button>
+</body>
+</html>",
+      "categories": [
+        "Android"
+      ],
+      "tags": [
+        "android",
+        "httpclient",
+        "internet"
+      ]
+    },
+        {
+      "title": "Academic Officiary",
+      "url": "<!DOCTYPE html>
+<html>
+<body>
+
+<p id=\"demo\">Click the button to change the layout of this paragraph</p>
+<script>
+function myFunction() \{
+    var x = document.getElementById(\"demo\");
+    x.style.fontSize = \"25px\"; 
+    x.style.color = \"red\"; 
+\}
+</script>
+<button onclick=\"myFunction()\">Click Me!</button>
+</body>
+</html>",
+      "categories": [
+        "Android"
+      ],
+      "tags": [
+        "android",
+        "httpclient",
+        "internet"
+      ]
+    },
+        {
+      "title": "Administrative",
+      "url": "<!DOCTYPE html>
+<html>
+<body>
+
+<p id=\"demo\">Click the button to change the layout of this paragraph</p>
+<script>
+function myFunction() \{
+    var x = document.getElementById(\"demo\");
+    x.style.fontSize = \"25px\"; 
+    x.style.color = \"red\"; 
+\}
+</script>
+<button onclick=\"myFunction()\">Click Me!</button>
+</body>
+</html>",
+      "categories": [
+        "Android"
+      ],
+      "tags": [
+        "android",
+        "httpclient",
+        "internet"
+      ]
+    },
+        {
+      "title": "Student Activities",
+      "url": "<!DOCTYPE html>
+<html>
+<body>
+
+<p id=\"demo\">Click the button to change the layout of this paragraph</p>
+<script>
+function myFunction() \{
+    var x = document.getElementById(\"demo\");
+    x.style.fontSize = \"25px\"; 
+    x.style.color = \"red\"; 
+\}
+</script>
+<button onclick=\"myFunction()\">Click Me!</button>
+</body>
+</html>",
+      "categories": [
+        "Android"
+      ],
+      "tags": [
+        "android",
+        "httpclient",
+        "internet"
+      ]
+    },
+        {
+      "title": "Hall Office",
+      "url": "<!DOCTYPE html>
+<html>
+<body>
+
+<p id=\"demo\">Click the button to change the layout of this paragraph</p>
+<script>
+function myFunction() \{
+    var x = document.getElementById(\"demo\");
+    x.style.fontSize = \"25px\"; 
+    x.style.color = \"red\"; 
+\}
+</script>
+<button onclick=\"myFunction()\">Click Me!</button>
+</body>
+</html>",
+      "categories": [
+        "Android"
+      ],
+      "tags": [
+        "android",
+        "httpclient",
+        "internet"
+      ]
+    },
+        {
+      "title": "Emergency Contacts",
+      "url": "<!DOCTYPE html>
+<html>
+<body>
+
+<p id=\"demo\">Click the button to change the layout of this paragraph</p>
+<script>
+function myFunction() \{
+    var x = document.getElementById(\"demo\");
+    x.style.fontSize = \"25px\"; 
+    x.style.color = \"red\"; 
+\}
+</script>
+<button onclick=\"myFunction()\">Click Me!</button>
+</body>
+</html>",
+      "categories": [
+        "Android"
+      ],
+      "tags": [
+        "android",
+        "httpclient",
+        "internet"
+      ]
+    },
     {
       "title": "Message From Developer",
       "url": "<!DOCTYPE html>
