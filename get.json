@@ -1,70 +1,16 @@
 {
-	"articleList": [{
-		"title": "Android Simple Html view",
-		"url": "<!DOCTYPE html>
-<html>
-<title>HTML Tutorial</title>
-<body>
-
-<h1>This is a heading</h1>
-<p>This is a paragraph.</p>
-
-</body>
-</html>",
-		"categories": [
-			"Android"
-		],
-		"tags": [
-			"android",
-			"httpclient",
-			"internet"
-		]
-	}, {
-		"title": "Android Html view with CSS, Java Script",
-		"url": "",
-		"categories": [
-			"Android"
-		],
-		"tags": [
-			"android",
-			"httpclient",
-			"internet"
-		]
-	}, {
-		"title": " Android Html View with CSS ",
-		"url": "<!DOCTYPE html>
-<html>
-<head>
-<style>
-body {
-    background-color: #d0e4fe;
-}
-
-h1 {
-    color: orange;
-    text-align: center;
-}
-
-p {
-    font-family: "Times New Roman";
-    font-size: 20px;
-}
-</style>
-</head>
-<body>
-
-<h1>My First CSS Example</h1>
-<p>This is a paragraph.</p>
-
-</body>
-</html>
-",
-		"categories": [
-			"Android"
-		],
-		"tags": [
-			"android",
-			"camera"
-		]
-	}]
+  "articleList": [
+    {
+      "title": "Intruduction",
+      "url": "Hello",
+      "categories": [
+        "Last"
+      ],
+      "tags": [
+        "android",
+        "httpclient",
+        "internet"
+      ]
+    }
+    ]
 }
