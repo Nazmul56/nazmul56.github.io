@@ -805,21 +805,717 @@ Mobile: <a class=\"telephone\" href=\"tel:01716068982\">01716068982</a></div>",
     },
         {
       "title": "Departments & Teachers",
-      "url": "<!DOCTYPE html>
-<html>
-<body>
-
-<p id=\"demo\">Click the button to change the layout of this paragraph</p>
-<script>
-function myFunction() \{
-    var x = document.getElementById(\"demo\");
-    x.style.fontSize = \"25px\"; 
-    x.style.color = \"red\"; 
+      "url": "<style type=\"text/css\">.infoclass\{ font-size:15px;padding:8px; margin-bottom:3px; border-radius: 3px;  background-color:white;-webkit-box-shadow: inset 0px 0px 2px 0px rgba(49, 50, 50, 0.67);
+-moz-box-shadow:    inset 0px 0px 2px 0px rgba(49, 50, 50, 0.67);
+box-shadow:         inset 0px 0px 2px 0px rgba(49, 50, 50, 0.67);\}
+body\{background-color:#f5f5f5; font-family:serif; line-height:1.3em; border:3px solid #29b6f6; 	border-radius: 6px; padding:3px; padding-top:8px \}
+p\{font-size:15px\}
+.headertitle\{width:100%; font-size: 17px; background:#29b6f6; color:#FFFFFF; border-radius: 3px; text-align: center\}
+.maintitle\{font-weight:bold;width:100%; font-size: 17px; background:#039be5; color:#FFFFFF; border-radius: 15px;padding-top:10px; padding-bottom:10px; text-align: center; margin-bottom:10px\}
+.telephone \{
+    background-image: url(\"http://i61.tinypic.com/n6xtmw.png\");
+    background-position: 0 0px;
+    background-repeat: no-repeat;
+    background-size: 20px auto;
+    color: black;
+    padding-bottom: 3px;
+    padding-left: 22px;
+    text-decoration: none;
+    padding-top: 2px;
 \}
-</script>
-<button onclick=\"myFunction()\">Click Me!</button>
-</body>
-</html>",
+.telephone:hover\{color:#29b6f6\}
+.email \{
+    background-image: url(\"http://i60.tinypic.com/dqm2cy.png\");
+    background-position: 3px 3px;
+    background-repeat: no-repeat;
+    background-size: 18px auto;
+    color: black;
+    padding-bottom: 3px;
+    padding-left: 22px;
+    padding-top: 2px;
+    text-decoration: none;
+\}
+.email:hover\{color:#29b6f6\}
+</style>
+
+<div class=\"maintitle\">Departments &amp; Teachers</div>
+<div class=\"demo-frame\">
+<a style=\"text-decoration:none\" href=\"#\"><div id=\"expander1\" class=\"headertitle expander\">Computer Science and Telecommunication Engineering (CSTE 01)</div></a>
+
+<div class=\"content\">
+<p style=\"text-align: center;\"><u><span style=\"font-size:14px;\"><strong>Chairman &amp; Associate Professor</strong></span></u></p>
+
+<div class=\"infoclass\"><strong>Dr. Mohammed Humayun Kabir</strong><br />
+Office: <a class=\"telephone\" href=\"tel:71486\">71486</a>, <a class=\"telephone\" href=\"tel:01814405238\">01814405238</a><br />
+Email: <a class=\"email\" href=\"mailto:hkabir269@gmail.com\">hkabir269@gmail.com</a></div>
+
+<p style=\"text-align: center;\"><span style=\"font-size:14px;\"><u><strong>&nbsp;Associate Professor</strong></u></span> &nbsp;</p>
+
+<div class=\"infoclass\"><strong>Md. Javed Hossain</strong><br />
+Mobile: <a class=\"telephone\" href=\"tel:01718175139\">01718175139</a><br />
+Email: <a class=\"email\" href=\"mailto:javed.nstu@gmail.com\">javed.nstu@gmail.com</a></div>
+<p style=\"text-align: center;\"><span style=\"font-size:14px;\"><u><strong>Assistant Professor</strong></u></span></p>
+
+<div class=\"infoclass\"><strong>Ashadun Nobi </strong>(Study Leave)<br />
+Email: <a class=\"email\" href=\"mailto:ashadunnobi_305@yahoo.com\">ashadunnobi_305@yahoo.com</a></div>
+
+<div class=\"infoclass\"><strong>Md. Bellal Hossain</strong>(Study Leave)<br />
+Mobile: <a class=\"telephone\" href=\"tel:01716699401\">01716699401</a><br />
+Email: <a class=\"email\" href=\"mailto:belal.nstu@gmail.com\">belal.nstu@gmail.com</a></div>
+
+<div class=\"infoclass\"><strong>Abhijit Chakraborty</strong><br />
+Mobile: <a class=\"telephone\" href=\"tel:01912183607\">01912183607</a><br />
+Email: <a class=\"email\" href=\"mailto:abhijit.cse@gmail.com\">abhijit.cse@gmail.com</a></div>
+
+<div class=\"infoclass\"><strong>Ibrahim Azad</strong>(Study Leave)<br />
+Mobile: <a class=\"telephone\" href=\"tel:01715764437\">01715764437</a><br />
+Email: <a class=\"email\" href=\"mailto:ibrahim.azad@hotmail.com\">ibrahim.azad@hotmail.com</a></div>
+
+<div class=\"infoclass\"><strong>Md. Kamal Uddin</strong><br />
+Mobile: <a class=\"telephone\" href=\"tel:01724268223\">01724268223</a><br />
+Email: <a class=\"email\" href=\"mailto:cse_kamal_ud@yahoo.com\">cse_kamal_ud@yahoo.com</a></div>
+
+<div class=\"infoclass\"><strong>Fateha Khanam Bappee</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01726772578\">01726772578</a><br />
+Email: <a class=\"email\" href=\"mailto:bappeenstu@gmail.com\">bappeenstu@gmail.com</a></div>
+
+<div class=\"infoclass\"><strong>Abul kalam Azad</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01722034899\">01722034899</a><br />
+Email: <a class=\"email\" href=\"mailto:azad.nstu@gmail.com\">azad.nstu@gmail.com</a></div>
+
+<p style=\"text-align: center;\"><u><strong>Lecturer</strong></u></p>
+
+<div class=\"infoclass\"><strong>Mrs. Nahid Akter </strong>(Study leave)<br />
+Phone: <a class=\"telephone\" href=\"tel:01912105887\">01912105887</a><br />
+Email: <a class=\"email\" href=\"mailto:nahid_nstu@yahoo.com\">nahid_nstu@yahoo.com</a></div>
+
+<div class=\"infoclass\"><strong>Mrs. Nazia majadi</strong>(Study leave)<br />
+Phone: <a class=\"telephone\" href=\"tel:01718422881\">01718422881</a><br />
+Email: <a class=\"email\" href=\"mailto:nazia_majadi@yahoo.com\">nazia_majadi@yahoo.com</a></div>
+
+<div class=\"infoclass\"><strong>Amran Hossen bhuiyan</strong>(Study Leave)<br />
+Phone: <a class=\"telephone\" href=\"tel:01717194634\">01717194634</a><br />
+Email: <a class=\"email\" href=\"mailto:amran_apece@yahoo.com\">amran_apece@yahoo.com</a></div>
+
+
+<div class=\"infoclass\"><strong>Iftekhar Mahmud Towhid</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01812597258\">01812597258</a><br />
+Email: <a class=\"email\" href=\"mailto:im_towhid@yahoo.com\">im_towhid@yahoo.com</a></div>
+</div>
+</div>
+
+<div class=\"demo-frame\">
+<a style=\"text-decoration:none\" href=\"#\"><div id=\"expander2\" class=\"headertitle expander\">Fisheries and Marine Science (FIMS 02)</div></a>
+
+<div class=\"content\">
+<div class=\"infoclass\"><strong>DR. MD. ABUL HOSSAIN</strong><br />
+Pro Vice Chancellor,<br />
+Dean, Faculty of Science &amp; Professor,<br />
+Dept. of Fisheries and Marine Science<br />
+Phone: <a class=\"telephone\" href=\"tel:+88032171484\">+88032171484</a>, Fax: <a class=\"telephone\" href=\"tel:+88032162788\">+88032162788</a><br />
+Mobile: <a class=\"telephone\" href=\"tel:01713012916\">01713012916</a><br />
+Email: <a class=\"email\" href=\"mailto:sazib.bhowmik@yahoo.com\">mah1754@gmail.com</a><br />
+website: <a href=\"www.fims-nstu.org\">www.fims-nstu.org</a></div>
+
+<p style=\"text-align: center;\"><u><strong>Associate Professor and Chairman</strong></u></p>
+
+<div class=\"infoclass\"><strong>DR. MD. JAHANGIR SARKER</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:+88032171487\">+880-321-71487</a>, Fax: <a class=\"telephone\" href=\"tel:+88032162788\">+880-321-62788</a><br />
+Mobile: <a class=\"telephone\" href=\"tel:01733910237\">01733910237</a><br />
+Email: <a class=\"email\" href=\"mailto:swaponj@yahoo.com\">swaponj@yahoo.com</a><br />
+website: <a href=\"www.fims-nstu.org\">www.fims-nstu.org</a></div>
+
+<p style=\"text-align: center;\"><u><strong>Assistant Professor</strong></u></p>
+
+<div class=\"infoclass\"><strong>A.F.M. ARIFUR RAHMAN</strong><br />
+Mobile: <a class=\"telephone\" href=\"tel:01819129553\">01819129553</a><br />
+Email: <a class=\"email\" href=\"mailto:arif_du2002@yahoo.com\">arif_du2002@yahoo.com &nbsp;</a><br />
+website: <a href=\"www.fims-nstu.org\">www.fims-nstu.org</a></div>
+
+<div class=\"infoclass\"><strong>MEHEDI MAHMUDUL HASAN</strong><br />
+Mobile: <a class=\"telephone\" href=\"tel:01727240180\">01727240180</a><br />
+Email: <a class=\"email\" href=\"mailto:mehedi_nstu@yahoo.com\">mehedi_nstu@yahoo.com</a><br />
+website: <a href=\"www.fims-nstu.org\">www.fims-nstu.org</a></div>
+
+<div class=\"infoclass\"><strong>MOHAMMAD BELAL HOSSAIN</strong> (Study Leave)<br />
+Phone: <a class=\"telephone\" href=\"tel:+6738665470\">+6738665470</a>, <a class=\"telephone\" href=\"tel:+8801711781550\">+8801711781550</a><br />
+Email: <a class=\"email\" href=\"mailto:belalhossain@yahoo.com\">belalhossain@yahoo.com</a>, <a class=\"email\" href=\"mailto:mbhnstu@gmail.com\">mbhnstu@gmail.com</a><br />
+website: <a href=\"www.fims-nstu.org\">www.fims-nstu.org</a></div>
+
+<div class=\"infoclass\"><strong>MD. RAKEB-UL-ISLAM</strong> (Study Leave)<br />
+Mobile: <a class=\"telephone\" href=\"tel:+8801716783991\">+8801716783991</a><br />
+Email: <a class=\"email\" href=\"mailto:mrakeb_82bau@yahoo.com\">mrakeb_82bau@yahoo.com</a>, <a class=\"email\" href=\"mailto:r.islam@griffithuni.edu.au\">r.islam@griffithuni.edu.au</a><br />
+website: <a href=\"www.fims-nstu.org\">www.fims-nstu.org</a></div>
+
+<div class=\"infoclass\"><strong>BHAKTA SUPRATIM SARKER</strong><br />
+Mobile: <a class=\"telephone\" href=\"tel:+8801911712791\">+8801911712791</a><br />
+Email: <a class=\"email\" href=\"mailto:vktt1979@yahoo.com\">vktt1979@yahoo.com</a><br />
+website: <a href=\"www.fims-nstu.org\">www.fims-nstu.org</a></div>
+
+<div class=\"infoclass\"><strong>ABDULLAH-AL MAMUN</strong> (Study Leave)<br />
+Mobile: <a class=\"telephone\" href=\"tel:+8801712928710\">+8801712928710</a><br />
+Email: <a class=\"email\" href=\"mailto:mamun_au22@yahoo.com\">mamun_au22@yahoo.com</a>, <a class=\"email\" href=\"mailto:a.m.mamun@stir.ac.uk\">a.m.mamun@stir.ac.uk</a><br />
+website: <a href=\"www.fims-nstu.org\">www.fims-nstu.org</a></div>
+
+<div class=\"infoclass\"><strong>DEBASISH SAHA </strong>(Study Leave)<br />
+Mobile: <a class=\"telephone\" href=\"tel:+818048462076\">+818048462076</a>, <a class=\"telephone\" href=\"tel:+8801714888206\">+8801714888206</a><br />
+Email: <a class=\"email\" href=\"mailto:ds_bau@yahoo.com\">ds_bau@yahoo.com</a><br />
+website: <a href=\"www.fims-nstu.org\">www.fims-nstu.org</a></div>
+
+<div class=\"infoclass\"><strong>MD. MOFIZUR RAHMAN </strong>(RIPON)<br />
+Mobile: <a class=\"telephone\" href=\"tel:+8801712516953\">+8801712516953</a><br />
+Email: <a class=\"email\" href=\"mailto:riponfisheries@gmail.com\">riponfisheries@gmail.com</a>, <a class=\"email\" href=\"mailto:ripondu31184@yahoo.com\">ripondu31184@yahoo.com</a><br />
+website: <a href=\"www.fims-nstu.org\">www.fims-nstu.org</a></div>
+
+<div class=\"infoclass\"><strong>MD. ANISUZZAMAN RIMON</strong>(Study Leave)<br />
+Mobile: <a class=\"telephone\" href=\"tel:+8801717499749\">+8801717499749</a><br />
+Email: <a class=\"email\" href=\"mailto:rimon49@yahoo.com\">rimon49@yahoo.com</a><br />
+website: <a href=\"www.fims-nstu.org\">www.fims-nstu.org</a></div>
+
+<div class=\"infoclass\"><strong>MD. ROBIUL HASAN </strong>(RONY)<br />
+Mobile: <a class=\"telephone\" href=\"tel:+8801718589668\">+8801718589668</a><br />
+Email: <a class=\"email\" href=\"mailto:rhasan_rony@yahoo.com\">rhasan_rony@yahoo.com</a><br />
+website: <a href=\"www.fims-nstu.org\">www.fims-nstu.org</a></div>
+
+<p style=\"text-align: center;\"><u><strong>Lecturer</strong></u></p>
+
+<div class=\"infoclass\"><strong>MAHABUBUR RAHMAN</strong> (FARHAD)<br />
+Mobile: <a class=\"telephone\" href=\"tel:01717296238\">01717-296238</a><br />
+Email: <a class=\"email\" href=\"mailto:farhad.mrf@gmail.com\">farhad.mrf@gmail.com</a><br />
+website: <a href=\"www.fims-nstu.org\">www.fims-nstu.org</a></div>
+
+<div class=\"infoclass\"><strong>M. GOLAM MUSTAFA</strong><br />
+Qualification: B.Sc (Hon&rsquo;s), M.Sc (Marine Sciences)<br />
+Mobile: <a class=\"telephone\" href=\"tel:+8801712186434\">+8801712-186434</a><br />
+Email: <a class=\"email\" href=\"mailto:mustafa.nstu2013@gmail.com\">mustafa.nstu2013@gmail.com</a><br />
+website: <a href=\"www.fims-nstu.org\">www.fims-nstu.org</a></div>
+</div>
+</div>
+
+<div class=\"demo-frame\">
+<a style=\"text-decoration:none\" href=\"#\"><div id=\"expander3\" class=\"headertitle expander\">Pharmacy (03)</div></a>
+
+<div class=\"content\">
+<p style=\"text-align: center;\"><u><strong>Chairman &amp; Associate Professor</strong></u></p>
+
+<div class=\"infoclass\"><strong>Dr. Mohammad Salim Hossain</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:71483\">71483</a><br />
+Mobile: <a class=\"telephone\" href=\"tel:01711200410\">01711200410</a><br />
+Email: <a class=\"email\" href=\"mailto:pharmasalim@yahoo.com\">pharmasalim@yahoo.com</a><br />
+website: <a href=\"www.nstupharma.org\">www.nstupharma.org</a></div>
+
+<p style=\"text-align: center;\"><strong><u>Associate Professor</u></strong></p>
+
+<div class=\"infoclass\"><strong>Dr. Mohammad Safiqul Islam (study leave)</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01714165107\">01714165107</a><br />
+Email: <a class=\"email\" href=\"mailto:research_safiq@yahoo.com\">research_safiq@yahoo.com</a><br />
+website: <a href=\"www.nstupharma.org\">www.nstupharma.org</a></div>
+
+<p style=\"text-align: center;\"><u><strong>Assistant Professor</strong></u></p>
+
+<div class=\"infoclass\"><strong>Mohammad Anwarul Basher </strong>(Study Leave)<br />
+Phone: <a class=\"telephone\" href=\"tel:01726742586\">01726742586</a><br />
+Email: <a class=\"email\" href=\"mailto:mabasher@live.com\">mabasher@live.com</a><br />
+website: <a href=\"www.nstupharma.org\">www.nstupharma.org</a></div>
+
+<div class=\"infoclass\"><strong>A F M Sohidullah </strong>(Study Leave)<br />
+Phone: <a class=\"telephone\" href=\"tel:01911711457\">01911711457</a><br />
+Email: <a class=\"email\" href=\"mailto:shahidnstu@gmail.com\">shahidnstu@gmail.com</a><br />
+website: <a href=\"www.nstupharma.org\">www.nstupharma.org</a></div>
+
+<div class=\"infoclass\"><strong>Md. Mizanur Rahman Moghal</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01190314094\">01190314094</a><br />
+Email: <a class=\"email\" href=\"mailto:mizan.phar@gmail.com\">mizan.phar@gmail.com</a><br />
+website: <a href=\"www.nstupharma.org\">www.nstupharma.org</a></div>
+
+<div class=\"infoclass\"><strong>Palash Karmakar</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01717036968\">01717036968</a><br />
+Email: <a class=\"email\" href=\"mailto:pknstu@gmail.com\">pknstu@gmail.com</a><br />
+website: <a href=\"www.nstupharma.org\">www.nstupharma.org</a></div>
+
+<div class=\"infoclass\"><strong>Jamiuddin Ahmed</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01199113606\">01199113606</a><br />
+Email: <a class=\"email\" href=\"mailto:ajami_ju@yahoo.com\">ajami_ju@yahoo.com</a><br />
+website: <a href=\"www.nstupharma.org\">www.nstupharma.org</a></div>
+
+<div class=\"infoclass\"><strong>Latifa Bulbul</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01741676362\">01741676362</a><br />
+Email: <a class=\"email\" href=\"mailto:prova_pharm32@yahoo.com\">prova_pharm32@yahoo.com</a><br />
+website: <a href=\"www.nstupharma.org\">www.nstupharma.org</a></div>
+
+<p style=\"text-align: center;\"><u><strong>Lecturer</strong></u></p>
+
+<div class=\"infoclass\"><strong>Biswa Nath Das</strong>(Study Leave)<br />
+Phone: <a class=\"telephone\" href=\"tel:01715405777\">01715405777</a><br />
+Email: <a class=\"email\" href=\"mailto:biswal121@yahoo.com\">biswal121@yahoo.com</a><br />
+website: <a href=\"www.nstupharma.org\">www.nstupharma.org</a></div>
+
+<div class=\"infoclass\"><strong>Md Ariful Islam</strong> (Study Leave)<br />
+Phone: <a class=\"telephone\" href=\"tel:01764145384\">01764145384</a><br />
+Email: <a class=\"email\" href=\"mailto:arifnixon@yahoo.com\">arifnixon@yahoo.com</a><br />
+website: <a href=\"www.nstupharma.org\">www.nstupharma.org</a></div>
+
+<div class=\"infoclass\"><strong>Md. Hasanuzzaman</strong> (Study Leave)<br />
+Phone: <a class=\"telephone\" href=\"tel:01715758888\">01715758888</a><br />
+Email: <a class=\"email\" href=\"mailto:hasanprdu@gmail.com\">hasanprdu@gmail.com</a><br />
+website: <a href=\"www.nstupharma.org\">www.nstupharma.org</a></div>
+
+<div class=\"infoclass\"><strong>Md. Mamun ur Rashid</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01911141120\">01911141120</a><br />
+Email: <a class=\"email\" href=\"mailto:mamun_pharma@yahoo.com\">mamun_pharma@yahoo.com</a><br />
+website: <a href=\"www.nstupharma.org\">www.nstupharma.org</a></div>
+
+<div class=\"infoclass\"><strong>Md. Monir Hossain</strong><br />
+phone: <a class=\"telephone\" href=\"tel:01670117946\">01670117946</a><br />
+Email: <a class=\"email\" href=\"mailto:monir.pharma@yahoo.com\">monir.pharma@yahoo.com</a><br />
+website: <a href=\"www.nstupharma.org\">www.nstupharma.org</a></div>
+
+<div class=\"infoclass\"><strong>Sujan Banik</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01727446920\">01727446920</a><br />
+Email: <a class=\"email\" href=\"mailto:pharmasujan@yahoo.com\">pharmasujan@yahoo.com</a><br />
+website: <a href=\"www.nstupharma.org\">www.nstupharma.org</a></div>
+
+<div class=\"infoclass\">
+<div><strong>Mariyam Akter</strong></div>
+
+<div>Phone: <a class=\"telephone\" href=\"tel:01738125060\">01738125060</a><br />
+website: <a href=\"www.nstupharma.org\">www.nstupharma.org</a></div>
+</div>
+
+</div>
+</div>
+
+<div class=\"demo-frame\">
+<a style=\"text-decoration:none\" href=\"#\"><div id=\"expander4\" class=\"headertitle expander\">Applied Chemistry &amp; Chemical Engineering (ACCE 04)</div></a>
+
+<div class=\"content\">
+<p style=\"text-align: center;\"><u><strong>Chairman &amp; Associate Professor</strong></u></p>
+
+<div class=\"infoclass\"><strong>Dr. Newaz Mohammed Bahadur</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:71485\">71485</a><br />
+Mobile: <a class=\"telephone\" href=\"tel:01911110671\">01911110671</a><br />
+Email: <a class=\"email\" href=\"mailto:nmbahadur@yahoo.com\">nmbahadur@yahoo.com</a></div>
+
+<p style=\"text-align: center;\"><u><strong>Associate Professor</strong></u></p>
+
+<div class=\"infoclass\"><strong>Dr Muhammed Yousuf Miah</strong><br />
+Mobile: <a class=\"telephone\" href=\"tel:01742710338\">01742710338</a><br />
+Email: <a class=\"email\" href=\"mailto:yan19742003@yahoo.com\">yan19742003@yahoo.com</a></div>
+
+<p style=\"text-align: center;\"><strong><u>Assistant Professor</u></strong></p>
+
+<div class=\"infoclass\"><strong>Mohammad Saiful Alam</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01913792542\">01913792542</a><br />
+Email: <a class=\"email\" href=\"mailto:saiful224@yahoo.com\">saiful224@yahoo.com</a></div>
+
+<div class=\"infoclass\"><strong>Md. Ismail Hossen</strong><br />
+Mobile: <a class=\"telephone\" href=\"tel:01831115441\">01831115441</a><br />
+Email: <a class=\"email\" href=\"mailto:mil_che@yahoo.com\">mil_che@yahoo.com</a></div>
+
+<div class=\"infoclass\"><strong>Md. Jakarul Islam</strong>(Study Leave)<br />
+Mobile: <a class=\"telephone\" href=\"tel:01916071181\">01916071181</a><br />
+Email: <a class=\"email\" href=\"mailto:write_akarul@yahoo.com\">write_akarul@yahoo.com</a></div>
+
+<div class=\"infoclass\"><strong>Md. Ashraful Alam </strong>(Study Leave)<br />
+Mobile: <a class=\"telephone\" href=\"tel:01919818044\">01919818044</a><br />
+Email: <a class=\"email\" href=\"mailto:ashraf.nstu@yahoo.com\">ashraf.nstu@yahoo.com</a></div>
+
+<div class=\"infoclass\"><strong>Ansara Noori</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01712197256\">01712197256</a><br />
+Email: <a class=\"email\" href=\"mailto:kajol_noori@yahoo.com\">kajol_noori@yahoo.com</a></div>
+
+<div class=\"infoclass\"><strong>Juganta Kumar Roy</strong> (Study Leave)<br />
+Phone: <a class=\"telephone\" href=\"tel:01713425486\">01713425486</a><br />
+Email: <a class=\"email\" href=\"mailto:juganta280@yahoo.com\">juganta280@yahoo.com</a></div>
+
+<div class=\"infoclass\"><strong>Md. Tanvir Hossain</strong><br />
+Mobile: <a class=\"telephone\" href=\"tel:01725346333\">01725346333</a><br />
+Email: <a class=\"email\" href=\"mailto:tanvirdb@gmail.com\">tanvirdb@gmail.com</a></div>
+
+<div class=\"infoclass\"><strong>Md. Towhidul Islam</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01712593494\">01712593494</a><br />
+Email: <a class=\"email\" href=\"mailto:towhid.du@yahoo.com\">towhid.du@yahoo.com</a></div>
+
+<div class=\"infoclass\"><strong>Nazia Noor </strong>(Study Leave)<br />
+Phone: <a class=\"telephone\" href=\"tel:01717242596\">01717242596</a><br />
+Email: <a class=\"email\" href=\"mailto:nizia_du123@yahoo.com\">nizia_du123@yahoo.com</a></div>
+
+<div class=\"infoclass\"><strong>Fateh nur robel</strong> (Study Leave)<br />
+Phone: <a class=\"telephone\" href=\"tel:01819457050\">01819457050</a><br />
+Email: <a class=\"email\" href=\"mailto:rubel.acct@yahoo.com\">rubel.acct@yahoo.com</a></div>
+
+<div class=\"infoclass\"><strong>Md. Rafiqul Islam</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01717300701\">01717300701</a><br />
+Email: <a class=\"email\" href=\"mailto:rafiq_du228@yahoo.com\">rafiq_du228@yahoo.com</a></div>
+
+<p style=\"text-align: center;\"><strong><u>Lecturer</u></strong></p>
+
+<div class=\"infoclass\"><strong>Md. Azizul Haque</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01912123818\">01912123818</a><br />
+Email: <a class=\"email\" href=\"mailto:anuceps.sust@gmail.com\">anuceps.sust@gmail.com</a></div>
+
+<div class=\"infoclass\"><strong>Md. Shafiul Islam</strong>(study leave)<br />
+Phone: <a class=\"telephone\" href=\"tel:01916034310\">01916034310</a><br />
+Email: <a class=\"email\" href=\"mailto:shafiul_acct@yahoo.com\">shafiul_acct@yahoo.com</a></div>
+
+<div class=\"infoclass\"><strong>Mohammed Shahidul Islam</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01710510106\">01710510106</a><br />
+Email: <a class=\"email\" href=\"mailto:shahid_acct@yahoo.com\">shahid_acct@yahoo.com</a></div>
+</div>
+</div>
+
+<div class=\"demo-frame\">
+<a style=\"text-decoration:none\" href=\"#\"><div id=\"expander5\" class=\"headertitle expander\">MicroBiology (MBG 05)</div></a>
+
+<div class=\"content\">
+<p style=\"text-align: center;\"><u><strong>Chairman &amp; Assistant Professor</strong></u></p>
+
+<div class=\"infoclass\"><strong>Mohammad Ruhul Amin</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01724756620\">01724756620</a><br />
+Email: <a class=\"email\" href=\"mailto:ruhulmicro13@yahoo.com\">ruhulmicro13@yahoo.com</a></div>
+
+<p style=\"text-align: center;\"><u><strong>Assistant Professor</strong></u></p>
+
+<div class=\"infoclass\"><strong>Md. Masud Alam</strong>(Study Leave)<br />
+Phone: <a class=\"telephone\" href=\"tel:01818865786\">01818865786</a><br />
+Email: <a class=\"email\" href=\"mailto:masud_mbdu@yahoo.com\">masud_mbdu@yahoo.com</a></div>
+
+<div class=\"infoclass\"><strong>Rokeya siddiqui</strong>(Study Leave)<br />
+Phone: <a class=\"telephone\" href=\"tel:01714714803\">01714714803</a><br />
+Email: <a class=\"email\" href=\"mailto:rokeya_051@yahoo.com\">rokeya_051@yahoo.com</a></div>
+
+<p style=\"text-align: center;\"><u><strong>Lecturer</strong></u></p>
+
+<div class=\"infoclass\"><strong>Md. Arifur Rahman</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01913849378\">01913849378</a><br />
+Email: <a class=\"email\" href=\"mailto:fair_512@yahoo.com\">fair_512@yahoo.com</a></div>
+
+<div class=\"infoclass\"><strong>Mohammad Mehadi Hassan Chowdhury</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01710527044\">01710527044</a><br />
+Email: <a class=\"email\" href=\"mailto:md.mehadihassanchy@yahoo.com\">md.mehadihassanchy@yahoo.com</a></div>
+
+<div class=\"infoclass\"><strong>Khandokar Fahmida Sultana</strong>(study leave)<br />
+Phone: <a class=\"telephone\" href=\"tel:01676172577\">01676172577</a><br />
+Email: <a class=\"email\" href=\"mailto:fahmida.foni@gmail.com\">fahmida.foni@gmail.com</a></div>
+
+<div class=\"infoclass\"><strong>Faysal Hossen</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01687007112\">01687007112</a><br />
+Email: <a class=\"email\" href=\"mailto:foysay.du23@gmail.com\">foysay.du23@gmail.com</a></div>
+
+<div class=\"infoclass\"><strong>Mir Salma Akter</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01711113553\">01711113553</a><br/>
+Email: <a class=\"email\" href=\"mailto:aktersn30@gmail.com\">aktersn30@gmail.com</a></div>
+
+<div class=\"infoclass\"><strong>Md. Toslim Mahmud Polash</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01725706169\">01725706169</a><br/>
+Email: <a class=\"email\" href=\"mailto:palashmahmud@ymail.com\">palashmahmud@ymail.com</a></div>
+
+<div class=\"infoclass\"><strong>Abanti Barua</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01726036487\">01726036487</a><br/>
+Email: <a class=\"email\" href=\"mailto:abantika2005@gmail.com\">abantika2005@gmail.com</a></div>
+</div>
+</div>
+
+<div class=\"demo-frame\">
+<a style=\"text-decoration:none\" href=\"#\"><div id=\"expander6\" class=\"headertitle expander\">Applied Mathematics(A. MTH 06)</div></a>
+
+<div class=\"content\">
+<p style=\"text-align: center;\"><u><strong>Chairman</strong></u></p>
+
+<div class=\"infoclass\"><strong>Mohammed Nizam Uddin</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01554329643\">01554329643</a><br />
+Email: <a class=\"email\" href=\"mailto:nizamunbd@yahoo.com\">nizamunbd@yahoo.com</a></div>
+
+<p style=\"text-align: center;\"><u><strong>Associate Professor</strong></u></p>
+
+<div class=\"infoclass\"><strong>Dr. Hanif Murad</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:63298\">63298</a><br />
+Mobile: <a class=\"telephone\" href=\"tel:01733066954\">01733066954</a>, <a class=\"telephone\" href=\"tel:01712018181\">01712018181</a><br />
+Email: <a class=\"email\" href=\"mailto:drhanifmurad@yahoo.com\">drhanifmurad@yahoo.com</a></div>
+
+<p style=\"text-align: center;\"><u><strong>Assistant Professor</strong></u></p>
+
+<div class=\"infoclass\"><strong>Mohammed Nizam Uddin</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01554329643\">01554329643</a><br />
+Email: <a class=\"email\" href=\"mailto:nizamunbd@yahoo.com\">nizamunbd@yahoo.com</a></div>
+
+<div class=\"infoclass\"><strong>Md. Jashim Uddin</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01856921311\">01856921311</a><br />
+Email: <a class=\"email\" href=\"mailto:mdjaud@yahoo.com\">mdjaud@yahoo.com</a></div>
+
+<p style=\"text-align: center;\"><u><strong>Lecturer</strong></u></p>
+
+<div class=\"infoclass\"><strong>Md. Rifat Hasan</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01719422462\">01719422462</a><br />
+Email: <a class=\"email\" href=\"mailto:rifat_math2004@yahoo.com\">rifat_math2004@yahoo.com</a></div>
+
+<div class=\"infoclass\"><strong>Md. Jamal Hossain</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01911104423\">01911104423</a><br />
+Email: <a class=\"email\" href=\"mailto:z_math_du@yahoo.com\">z_math_du@yahoo.com</a></div>
+
+<div class=\"infoclass\"><strong>Mohammad Raquibul Hossain</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01840607032\">01840607032</a> , <a class=\"telephone\" href=\"tel:01912098449\">01912098449</a><br/>
+Email: <a class=\"email\" href=\"mailto:raquib.math@gmail.com\">raquib.math@gmail.com</a></div>
+
+<div class=\"infoclass\"><strong>Md. Nazim Uddin Bhuiyan</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01917780031\">01917780031</a> , <a class=\"telephone\" href=\"tel:01912098449\">01912098449</a><br/>
+Email: <a class=\"email\" href=\"mailto:mdnazim502@yahoo.comm\">mdnazim502@yahoo.com</a></div>
+
+</div>
+</div>
+
+<div class=\"demo-frame\">
+<a style=\"text-decoration:none\" href=\"#\"><div id=\"expander7\" class=\"headertitle expander\">English (07)</div></a>
+
+<div class=\"content\">
+<p style=\"text-align: center;\"><u><strong>Chairman &amp; Assistant professor</strong></u></p>
+
+<div class=\"infoclass\"><strong>Md. Nasir Uddin</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01736252767\">01736252767</a><br />
+Email: <a class=\"email\" href=\"mailto:mnasir7664@gmail.com\">mnasir7664@gmail.com</a></div>
+
+<p style=\"text-align: center;\"><u><strong>Assistant Professor</strong></u></p>
+
+<div class=\"infoclass\"><strong>Afsana Mousume</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01716269848\">01716269848</a><br />
+Email: <a class=\"email\" href=\"mailto:afsana.mousume@gmail.com\">afsana.mousume@gmail.com</a></div>
+
+
+<div class=\"infoclass\"><strong>Muhammad Mushfiqur Rahman</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01818085418\">01818085418</a><br />
+Email: <a class=\"email\" href=\"mailto:mmrs1981@yahoo.com\">mmrs1981@yahoo.com</a></div>
+
+<p style=\"text-align: center;\"><strong><u>Lecturer</u></strong></p>
+
+<div class=\"infoclass\"><strong>Shirin Akter popy</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01736252767\">01736252767</a><br />
+Email: <a class=\"email\" href=\"mailto:shirin.2206@gmail.com\">shirin.2206@gmail.com</a></div>
+
+<div class=\"infoclass\"><strong>Md. Ehsanul Hoque</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01813171087\">01813171087</a><br />
+Email: <a class=\"email\" href=\"mailto:ehsan_onike@yahoo.com\">ehsan_onike@yahoo.com</a></div>
+
+<div class=\"infoclass\"><strong>Israt Jahan Nimni</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01815865760\">01815865760</a><br />
+Email: <a class=\"email\" href=\"mailto:isratjahannimni@gmail.com\">isratjahannimni@gamil.com</a></div>
+</div>
+</div>
+
+<div class=\"demo-frame\">
+<a style=\"text-decoration:none\" href=\"#\"><div id=\"expander8\" class=\"headertitle expander\">Food Technology and Nutrition Science(FTNS 08)</div></a>
+
+<div class=\"content\">
+<p style=\"text-align: center;\"><u><strong>&nbsp;Chairman &amp; Assistant Professor</strong></u></p>
+
+<div class=\"infoclass\"><strong>Tazul islam</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01711335074\">01711335074</a><br />
+Email: <a class=\"email\" href=\"mailto:tazul.im@gmail.com\">tazul.im@gmail.com</a></div>
+
+<p style=\"text-align: center;\"><u><strong>Lecturer</strong></u></p>
+
+<div class=\"infoclass\"><strong>Abdullah Al mamun</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01723572515\">01723572515</a></div>
+
+<div class=\"infoclass\"><strong>Tanzina Rahman</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01687304530\">01687304530</a><br />
+Email: <a class=\"email\" href=\"mailto:tanjina.mili@gamil.com\">tanjina.mili@gamil.com</a></div>
+
+<div class=\"infoclass\"><strong>Mohammad Anwar-Ul-Alam</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01719399252\">01719399252</a><br />
+Email: <a class=\"email\" href=\"mailto:showrovinfs@gmail.com\">showrovinfs@gmail.com</a></div>
+
+<div class=\"infoclass\"><strong>Mansura Mokbul</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01712763363\">01712763363</a><br />
+Email: <a class=\"email\" href=\"mailto:Mansuramokbul@yahoo.com\">Mansuramokbul@yahoo.com</a></div>
+
+</div>
+</div>
+
+<div class=\"demo-frame\">
+<a style=\"text-decoration:none\" href=\"#\"><div id=\"expander9\" class=\"headertitle expander\">Environmental Science and Hazard Studies(ESHS 09)</div></a>
+
+<div class=\"content\">
+<p style=\"text-align: center;\"><u><strong>Chairman &amp; Assistant Professor</strong></u></p>
+
+<div class=\"infoclass\"><strong>Mohammad Mohinuzzaman Moyeen</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01819509301\">01819509301</a><br />
+Email: <a class=\"email\" href=\"mailto:moyeen_envsc@yahoo.com\">moyeen_envsc@yahoo.com</a></div>
+
+<p style=\"text-align: center;\"><u><strong>Assistant Professor</strong></u></p>
+
+<div class=\"infoclass\"><strong>Jayanta Kumar Basak</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01713410793\">01713410793</a><br />
+Email: <a class=\"email\" href=\"mailto:basak.jkb@gmail.com\">basak.jkb@gmail.com</a></div>
+
+<p style=\"text-align: center;\"><u><strong>Lecturer</strong></u></p>
+
+<div class=\"infoclass\"><strong>Shahriar Rahman</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01717153711\">01717153711</a><br />
+Email: <a class=\"email\" href=\"mailto:shariar.arif@gmail.com\">shariar.arif@gmail.com</a></div>
+
+<div class=\"infoclass\"><strong>Md. Shiblur Rahaman</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01715551906\">01715551906</a><br />
+Email: <a class=\"email\" href=\"mailto:Shiblu.nstu@gmail.com\">Shiblu.nstu@gmail.com</a></div>
+
+<div class=\"infoclass\"><strong>Shurovi Zaman</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01775618262\">01775618262</a><br />
+Email: <a class=\"email\" href=\"mailto:szaman_29@yahoo.com\">szaman_29@yahoo.com</a></div>
+
+<div class=\"infoclass\"><strong>Nandita Sarker</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01745691557\">01745691557</a><br />
+Email: <a class=\"email\" href=\"mailto:nandita89env@gmail.com\">nandita89env@gmail.com</a></div>
+
+</div>
+</div>
+
+</div>
+
+<div class=\"demo-frame\">
+<a style=\"text-decoration:none\" href=\"#\"><div id=\"expander10\" class=\"headertitle expander\">Business Administration(BA 10)</div></a>
+
+<div class=\"content\">
+<p style=\"text-align: center;\"><u><strong>Chairman &amp; Assistant Professor</strong></u></p>
+
+<div class=\"infoclass\"><strong>Masum Miah</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01719883107\">01719883107</a><br />
+Email: <a class=\"email\" href=\"mailto:masum.7cu@gmail.com\">masum.7cu@gmail.com</a></div>
+
+<div class=\"infoclass\"><strong>Md. Abdul Kaium Masud</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01718509951\">01718509951</a><br />
+Email: <a class=\"email\" href=\"mailto:masudbd08@gmail.com\">masudbd08@gmail.com</a></div>
+
+<p style=\"text-align: center;\"><u><strong>Lecturer</strong></u></p>
+
+<div class=\"infoclass\"><strong>Mahabubul Haque</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01711063417\">01711063417</a></div>
+
+<div class=\"infoclass\"><strong>Shafiqul Alam</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01673642243\">01673642243</a><br />
+Email: <a class=\"email\" href=\"mailto:chayon_222@yahoo.com\">chayon_222@yahoo.com</a></div>
+
+
+<div class=\"infoclass\"><strong>Subarna Biswas</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01670323407\">01670323407</a><br />
+Email: <a class=\"email\" href=\"mailto:Subarno07@gmail.com\">Subarno07@gmail.com</a></div>
+
+<div class=\"infoclass\"><strong>Md. Rubel Miah</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01914293176\">01914293176</a><br />
+Email: <a class=\"email\" href=\"mailto:Mmdrubel03@gmail.com\">Mmdrubel03@gmail.com</a></div>
+
+
+</div>
+</div>
+
+
+<div class=\"demo-frame\">
+<a style=\"text-decoration:none\" href=\"#\"><div id=\"expander1\" class=\"headertitle expander\">Information and Communication Technology(ICT 11)</div></a>
+
+<div class=\"content\">
+<p style=\"text-align: center;\"><u><strong>&nbsp;Chairman &amp; Associate Professor</strong></u></p>
+
+<div class=\"infoclass\"><strong>Dr. Md. Ashikur Rahaman Khan</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01836350710\">01836350710</a><br />
+Email: <a class=\"email\" href=\"mailto:ashik.nstu@yahoo.com\">ashik.nstu@yahoo.com</a></div>
+
+<p style=\"text-align: center;\"><u><strong>Lecturer</strong></u></p>
+
+<div class=\"infoclass\"><strong>Abidur Rahaman</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01914317509\">01914317509</a><br />
+Email: <a class=\"email\" href=\"mailto:abid317509@gmail.com\">abid317509@gmail.com</a></div>
+
+<div class=\"infoclass\"><strong>Zyed-Us-salehin</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01820295205\">01820295205</a><br />
+Email: <a class=\"email\" href=\"mailto:salehin.fahad@yahoo.com\">salehin.fahad@yahoo.com</a></div>
+
+<div class=\"infoclass\"><strong>Md. Saifur rahaman Saif</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01722514322\">01722514322</a><br />
+Email: <a class=\"email\" href=\"mailto:iamsaif07@gmail.com\">iamsaif07@gmail.com</a></div>
+</div>
+</div>
+
+<div class=\"demo-frame\">
+<a style=\"text-decoration:none\" href=\"#\"><div id=\"expander1\" class=\"headertitle expander\">Biotechnology and Genetic Engineering(BGE 12)</div></a>
+
+<div class=\"content\">
+<p style=\"text-align: center;\"><u><strong>Chairman (Acting) &amp; Lecturer</strong></u></p>
+
+<div class=\"infoclass\">Pro Vice Chancellor</div>
+
+<p style=\"text-align: center;\"><u><strong>Lecturer</strong></u></p>
+
+<div class=\"infoclass\"><strong>Khadizatul Kubra</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01723397125\">01723397125</a><br />
+Email: <a class=\"email\" href=\"mailto:khadizasimi@gmail.com\">khadizasimi@gmail.com</a></div>
+
+<div class=\"infoclass\"><strong>Fatematuz Juhora Evamoni</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01710066124\">01710066124</a><br />
+Email: <a class=\"email\" href=\"mailto:Eva.nstu@yahoo.com\">Eva.nstu@yahoo.com</a></div>
+
+<div class=\"infoclass\"><strong>Anwar Hossain</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01716169825\">01716169825</a><br />
+Email: <a class=\"email\" href=\"mailto:anwarnstu13@gmail.com\">anwarnstu13@gmail.com</a></div>
+
+<div class=\"infoclass\"><strong>Abu Nasr Mondal</strong> (Study Leave)<br />
+Phone: <a class=\"telephone\" href=\"tel:01723336562\">01723336562</a><br />
+Email: <a class=\"email\" href=\"mailto:nasorbtc@gmail.com\">nasorbtc@gmail.com</a></div>
+</div>
+</div>
+
+<div class=\"demo-frame\">
+<a style=\"text-decoration:none\" href=\"#\"><div id=\"expander1\" class=\"headertitle expander\">Economics and Poverty Studies(EPS 13)</div></a>
+
+<div class=\"content\">
+<p style=\"text-align: center;\"><u><strong>Chairman (Acting) &amp; Lecturer</strong></u></p>
+
+<div class=\"infoclass\">Pro vice Chancellor</div>
+
+<p style=\"text-align: center;\"><u><strong>Lecturer</strong></u></p>
+
+<div class=\"infoclass\"><strong>Md. Khosrul Alam</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01730710587\">01730710587</a><br />
+Email: <a class=\"email\" href=\"mailto:alam.khosrul@yahoo.com\">alam.khosrul@yahoo.com</a></div>
+
+<div class=\"infoclass\"><strong>Binata Rani Sen</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01676206194\">01676206194</a><br />
+Email: <a class=\"email\" href=\"mailto:ranibinata@gmail.com\">ranibinata@gmail.com</a></div>
+
+<div class=\"infoclass\"><strong>Farid Dewan</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01969429120\">01969429120</a><br />
+Email: <a class=\"email\" href=\"mailto:farid_bau@gmail.com\">farid_bau@gmail.com</a>
+</div>
+
+<div class=\"infoclass\"><strong>Tania Islam</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01756524309\">01756524309</a><br />
+Email: <a class=\"email\" href=\"mailto:taniabau10@yahoo.com\">taniabau10@yahoo.com</a></div>
+</div>
+</div>
+
+<div class=\"demo-frame\">
+<a style=\"text-decoration:none\" href=\"#\"><div id=\"expander1\" class=\"headertitle expander\">Coastal Agriculture(CA 14)</div></a>
+
+<div class=\"content\">
+<p style=\"text-align: center;\"><u><strong>Chairman (Acting) &amp; Lecturer</strong></u></p>
+
+<div class=\"infoclass\"><strong>Mehede Hassan Rubel</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:+8801710586359\">+8801710586359</a><br />
+Fax: <a class=\"telephone\" href=\"tel:+88032162788\">+88032162788</a><br />
+Email: <a class=\"email\" href=\"mailto:mhrubel_188@yahoo.com\">mhrubel_188@yahoo.com</a></div>
+
+<div>
+<p style=\"text-align: center;\"><u><strong>Lecturer</strong></u></p>
+</div>
+
+<div class=\"infoclass\"><strong>Abu Bakkar Siddique</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:+8801673716634\">+8801673716634</a>, <a class=\"telephone\" href=\"tel:01919494905\">01919494905</a><br/>
+Email: <a class=\"email\" href=\"mailto:siddique1506@gmail.com\">siddique1506@gmail.com</a></div>
+
+<div class=\"infoclass\"><strong>Shohrab Hossain</strong><br />
+Mobile: <a class=\"telephone\" href=\"tel:01712019331\">01712019331</a>,<a class=\"telephone\" href=\"tel:01936493265\"> 01936493265</a><br />
+Email: <a class=\"email\" href=\"mailto:shohrab.ag@gmail.com\">shohrab.ag@gmail.com</a></div>
+
+<div class=\"infoclass\"><strong>Kawsar Hossen</strong><br />
+Mobile: <a class=\"telephone\" href=\"tel:01710395738\">01710395738</a>, <a class=\"telephone\" href=\"tel:01914161707\">01914161707</a><br />
+Email: <a class=\"email\" href=\"mailto:kwsarbau@gmail.com\">kwsarbau@gmail.com</a></div>",
       "categories": [
         "Android"
       ],
@@ -831,21 +1527,529 @@ function myFunction() \{
     },
         {
       "title": "Class Representative",
-      "url": "<!DOCTYPE html>
-<html>
-<body>
-
-<p id=\"demo\">Click the button to change the layout of this paragraph</p>
-<script>
-function myFunction() \{
-    var x = document.getElementById(\"demo\");
-    x.style.fontSize = \"25px\"; 
-    x.style.color = \"red\"; 
+      "url": "<style type=\"text/css\">.infoclass\{ font-size:15px;padding:8px; margin-bottom:3px; border-radius: 3px;  background-color:white;-webkit-box-shadow: inset 0px 0px 2px 0px rgba(49, 50, 50, 0.67);
+-moz-box-shadow:    inset 0px 0px 2px 0px rgba(49, 50, 50, 0.67);
+box-shadow:         inset 0px 0px 2px 0px rgba(49, 50, 50, 0.67);\}
+body\{background-color:#f5f5f5; font-family:serif; line-height:1.3em; border:3px solid #29b6f6; 	border-radius: 6px; padding:3px; padding-top:8px \}
+p\{font-size:15px\}
+.headertitle\{width:100%; font-size: 17px; background:#29b6f6; color:#FFFFFF; border-radius: 3px; text-align: center\}
+.maintitle\{font-weight:bold;width:100%; font-size: 17px; background:#039be5; color:#FFFFFF; border-radius: 15px;padding-top:10px; padding-bottom:10px; text-align: center; margin-bottom:10px\}
+.telephone \{
+    background-image: url(\"http://i61.tinypic.com/n6xtmw.png\");
+    background-position: 0 0px;
+    background-repeat: no-repeat;
+    background-size: 20px auto;
+    color: black;
+    padding-bottom: 3px;
+    padding-left: 22px;
+    text-decoration: none;
+    padding-top: 2px;
 \}
-</script>
-<button onclick=\"myFunction()\">Click Me!</button>
-</body>
-</html>",
+.telephone:hover\{color:#29b6f6\}
+.email \{
+    background-image: url(\"http://i60.tinypic.com/dqm2cy.png\");
+    background-position: 3px 3px;
+    background-repeat: no-repeat;
+    background-size: 18px auto;
+    color: black;
+    padding-bottom: 3px;
+    padding-left: 22px;
+    padding-top: 2px;
+    text-decoration: none;
+\}
+.email:hover\{color:#29b6f6\}
+</style>
+
+<div class=\"maintitle\">Class Representative</div>
+
+<div class=\"demo-frame\">
+<a style=\"text-decoration:none\" href=\"#\"><div id=\"expander1\" class=\"headertitle expander\">Computer Science and Telecommunication Engineering (CSTE 01)</div></a>
+
+<div class=\"content\">
+
+<p style=\"text-align: center;\"><strong><u>5th Batch</u></strong></p>
+
+<div class=\"infoclass\"><strong>Syful Islam</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01823024498\">01823024498</a></div>
+
+<div class=\"infoclass\">CR(Female):<br />
+<strong>Nabanita BISWAS</strong></div>
+
+<p style=\"text-align: center;\"><u><strong>6th Batch</strong></u></p>
+
+<div class=\"infoclass\"><strong>Azizul Hakim Suzan</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01912675208\">01912675208</a></div>
+
+<p style=\"text-align: center;\"><u><strong>7th Batch</strong></u></p>
+
+<div class=\"infoclass\"><strong>Mukit Ahmed Khan</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01816069622\">01816069622</a></div>
+
+<div class=\"infoclass\">CR(Female):<br />
+<b>Tahmina Akter Tani</b></div>
+
+<p style=\"text-align: center;\"><strong><u>&nbsp;8th Batch</u></strong></p>
+
+<div class=\"infoclass\"><strong>Asim Biswas</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01738901346\">01738901346</a></div>
+
+<p style=\"text-align: center;\"><u><strong>&nbsp;9th batch</strong></u></p>
+
+<div class=\"infoclass\"><strong>Mukarrom Yahiya</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01672216547\">01672216547</a></div>
+
+<div class=\"infoclass\"><strong>Robiul Auwal</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01827893381\">01827893381</a></div>
+
+<p style=\"text-align: center;\"><u><strong>&nbsp;10th batch</strong></u></p>
+
+<div class=\"infoclass\"><strong>Sohel Rana</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01861625909\">01861625909</a></div>
+
+<div class=\"infoclass\">CR(Female):<br />
+<b>Tahin Sharmin</b></div>
+
+</div></div><div class=\"demo-frame\">
+<a style=\"text-decoration:none\" href=\"#\"><div id=\"expander1\" class=\"headertitle expander\">Fisheries and Marine Science (FIMS 02)</div></a>
+
+<div class=\"content\">
+<p style=\"text-align: center;\"><u><strong>5th Batch</strong></u></p>
+
+<div class=\"infoclass\"><strong>Jakir Hossain</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01829604553\">01829604553</a></div>
+
+<p style=\"text-align: center;\"><u><strong>6th batch</strong></u></p>
+
+<div class=\"infoclass\"><strong>Jewel Pall</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01741250937\">01741250937</a></div>
+
+<p style=\"text-align: center;\"><u><strong>7th Batch</strong></u></p>
+
+<div class=\"infoclass\"><strong>Maruf Hossain</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01826573412\">01826573412</a></div>
+
+<div class=\"infoclass\">CR(Female):<br />
+<b>Sumaia Akter</b></div>
+
+
+<p style=\"text-align: center;\"><u><strong>8th Batch</strong></u></p>
+
+<div class=\"infoclass\"><strong><span data-ft=\"\{&quot;tn&quot;:&quot;K&quot;\}\" data-reactid=\".5i6.1:3:1:$comment337534039766637_337548096431898:0.0.$right.0.$left.0.0.1:$comment-body\"><span class=\"UFICommentBody\" data-reactid=\".5i6.1:3:1:$comment337534039766637_337548096431898:0.0.$right.0.$left.0.0.1:$comment-body.0\"><span data-reactid=\".5i6.1:3:1:$comment337534039766637_337548096431898:0.0.$right.0.$left.0.0.1:$comment-body.0.$end:0:$0:0\">Badsha Fahad</span></span></span></strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01818967555\">01818967555</a></div>
+
+<div class=\"infoclass\"><strong>CR(Female)</strong><br />
+Sanjida Afrin Semme</div>
+
+<p style=\"text-align: center;\"><strong><u>9th Batch</u></strong></p>
+
+<div class=\"infoclass\"><strong>Md.Rashedul haque Selim</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:0167378827\">0167378827</a></div>
+
+<div>
+<div class=\"infoclass\">CR(Female)<br />
+<strong>Sabrina Sharmin</strong></div>
+</div>
+
+<p style=\"text-align: center;\"><strong><u>10th Batch</u></strong></p>
+
+<div class=\"infoclass\"><strong>md shafawat hossain</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01845819902\">01845819902</a></div>
+
+
+</div></div><div class=\"demo-frame\">
+<a style=\"text-decoration:none\" href=\"#\"><div id=\"expander1\" class=\"headertitle expander\">Pharmacy (code 03)</div></a>
+
+<div class=\"content\">
+<p style=\"text-align: center;\"><u><strong>5th batch</strong></u></p>
+
+<div class=\"infoclass\"><strong>Shalahuddin Millat</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01834136774\">01834136774</a></div>
+
+<p style=\"text-align: center;\"><u><strong>6th Batch</strong></u></p>
+
+<div class=\"infoclass\"><strong>Mainul Islam Sabbir</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01674055971\">01674055971</a></div>
+
+<p style=\"text-align: center;\"><u><strong>7th batch</strong></u></p>
+
+<div class=\"infoclass\"><strong>GM Saiful Islam</strong>(<span class=\"null\">Asif</span>)<br />
+Phone: <a class=\"telephone\" href=\"tel:01820153827\">01820153827</a></div>
+
+<p style=\"text-align: center;\"><u><strong>8th batch</strong></u></p>
+
+<div class=\"infoclass\"><strong>Jakir Hossain</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01815718030\">01815718030</a></div>
+
+<p style=\"text-align: center;\"><u><strong>9th batch</strong></u></p>
+
+<div class=\"infoclass\"><strong>Pulak chowdhury</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01815503418\">01815503418</a></div>
+
+<p style=\"text-align: center;\"><strong><u>10th Batch</u></strong></p>
+
+<div class=\"infoclass\"><strong>Ohidur Reaz</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01717801198\">01717801198</a></div>
+
+<div>
+<div class=\"infoclass\">CR(Female)<br />
+<strong>iifa rahman</strong></div>
+</div>
+
+</div></div><div class=\"demo-frame\">
+<a style=\"text-decoration:none\" href=\"#\"><div id=\"expander1\" class=\"headertitle expander\">Applied Chemistry &amp; Chemical Engineering (ACCE 04)</div></a>
+
+<div class=\"content\">
+
+<p style=\"text-align: center;\"><u><strong>5th Batch</strong></u></p>
+
+<div class=\"infoclass\"><strong>Rashed</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01673563130\">01673563130</a></div>
+
+<p style=\"text-align: center;\"><u><strong>6th Batch</strong></u></p>
+
+<div class=\"infoclass\"><strong>Saiful</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01670307117\">01670307117</a></div>
+
+<p style=\"text-align: center;\"><u><strong>7th Batch</strong></u></p>
+
+<div class=\"infoclass\"><strong>Mohammad Mehedi Hasan</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01770276383\">01770276383</a></div>
+
+<p style=\"text-align: center;\"><u><strong>8th Batch</strong></u></p>
+
+<div class=\"infoclass\"><strong>Saikot</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01815807458\">01815807458</a></div>
+
+<p style=\"text-align: center;\"><u><strong>9th Batch</strong></u></p>
+
+<div class=\"infoclass\"><strong>Sohag</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01684007742\">01684007742</a></div>
+
+<p style=\"text-align: center;\"><u><strong>10th Batch</strong></u></p>
+
+<div class=\"infoclass\"><strong>Bijoy Bhowmick</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01625606730\">01625606730</a></div>
+
+</div></div><div class=\"demo-frame\">
+<a style=\"text-decoration:none\" href=\"#\"><div id=\"expander1\" class=\"headertitle expander\">Microbiology (MBG 05)</div></a>
+
+<div class=\"content\">
+
+<p style=\"text-align: center;\"><u><strong>5th Batch</strong></u></p>
+
+<div class=\"infoclass\"><strong>Robin</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01758863333\">01758863333</a></div>
+
+<div class=\"infoclass\">CR(Female)<br />
+<strong>Sajeda Nishat</strong></div>
+
+<p style=\"text-align: center;\"><u><strong>6th Batch</strong></u></p>
+
+<div class=\"infoclass\"><strong>Prince</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01735698084\">01735698084</a></div>
+
+<div class=\"infoclass\">CR(Female)<br />
+<strong>Sumita</strong></div>
+
+<p style=\"text-align: center;\"><u><strong>7th Batch</strong></u></p>
+
+<div class=\"infoclass\"><strong>Arafat</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01814743728\">01814743728</a></div>
+
+<div class=\"infoclass\">CR(Female)<br />
+<strong>Jannatul Fiza</strong></div>
+
+<p style=\"text-align: center;\"><u><strong>8th Batch</strong></u></p>
+
+<div class=\"infoclass\"><strong>Pial</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01726117509\">01726117509</a></div>
+
+<div class=\"infoclass\">CR(Female)<br />
+<strong>Razia Sultana</strong></div>
+
+<p style=\"text-align: center;\"><strong><u>9th batch</u></strong></p>
+
+<div class=\"infoclass\"><strong>Aminul</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01734452665\">01734452665</a></div>
+
+<div class=\"infoclass\">CR(Female)<br />
+<strong>Afnan Ashan</strong></div>
+
+<p style=\"text-align: center;\"><strong><u>10th batch</u></strong></p>
+
+<div class=\"infoclass\"><strong>Habib</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01626708616\">01626708616</a></div>
+
+</div></div>
+
+
+
+
+<div class=\"demo-frame\">
+<a style=\"text-decoration:none\" href=\"#\"><div id=\"expander1\" class=\"headertitle expander\">Applied Mathematics (A. MTH 05)</div></a>
+
+<div class=\"content\">
+
+<p style=\"text-align: center;\"><u><strong>6th Batch</strong></u></p>
+
+<div class=\"infoclass\"><strong>Sohag</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01811849284\">01811849284</a></div>
+
+<p style=\"text-align: center;\"><u><strong>7th Batch</strong></u></p>
+
+<div class=\"infoclass\"><strong>Ibrahim</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01520103233\">01520103233</a></div>
+
+<p style=\"text-align: center;\"><u><strong>8th Batch</strong></u></p>
+
+<div class=\"infoclass\"><strong>Roni</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01925092949\">01925092949</a></div>
+
+<p style=\"text-align: center;\"><u><strong>9th Batch</strong></u></p>
+
+<div class=\"infoclass\"><strong>MOHAMMAD ANAS</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01915529666\">01915529666</a></div>
+
+
+<p style=\"text-align: center;\"><u><strong>10th Batch</strong></u></p>
+
+<div class=\"infoclass\"><strong>RIAZ MAHMUD</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01750687943\">01750687943</a></div>
+
+
+</div></div><div class=\"demo-frame\">
+<a style=\"text-decoration:none\" href=\"#\"><div id=\"expander1\" class=\"headertitle expander\">English (07)</div></a>
+
+<div class=\"content\">
+
+<p style=\"text-align: center;\"><u><strong>6th Batch</strong></u></p>
+
+<div class=\"infoclass\"><strong>Sadek</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01830790720\">01830790720</a></div>
+
+<p style=\"text-align: center;\"><u><strong>7th Batch</strong></u></p>
+
+<div class=\"infoclass\"><strong>Hira</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01916141483\">01916141483</a></div>
+
+<p style=\"text-align: center;\"><u><strong>8th Batch</strong></u></p>
+
+<div class=\"infoclass\"><strong>Topu</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01713613039\">01713613039</a></div>
+
+<p style=\"text-align: center;\"><u><strong>9th Batch</strong></u></p>
+
+<div class=\"infoclass\"><strong>Shipon</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01676455064\">01676455064</a></div>
+
+
+<p style=\"text-align: center;\"><u><strong>10th Batch</strong></u></p>
+
+<div class=\"infoclass\"><strong>Sagirul Alam</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01710466921\">01710-466921</a></div>
+
+</div></div><div class=\"demo-frame\">
+<a style=\"text-decoration:none\" href=\"#\"><div id=\"expander1\" class=\"headertitle expander\">Food Technology and Nutrition Science(FTNS 08)</div></a>
+
+<div class=\"content\">
+
+<p style=\"text-align: center;\"><u><strong>7th Batch</strong></u></p>
+
+<div class=\"infoclass\"><strong>Ratul Miraz</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01917904877\">01917904877</a></div>
+
+<div class=\"infoclass\">CR(Female)<br />
+<strong>Sanzida shorony</strong></div>
+
+<p style=\"text-align: center;\"><u><strong>8th Batch</strong></u></p>
+
+<div class=\"infoclass\"><strong>Md. Nur Alom Prince</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01731734741\">01731734741</a></div>
+
+<div class=\"infoclass\">CR(Female):<br />
+<strong><span class=\"null\">Mayurakhsi Chowdhury</span></strong></div>
+
+<p style=\"text-align: center;\"><u><strong>9th batch</strong></u></p>
+
+<div class=\"infoclass\"><strong>Arefin Ishat</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01671651155\">01671651155</a></div>
+
+<div class=\"infoclass\">CR(Female)<br />
+<strong>Israt Jahan Jeny</strong></div>
+
+<p style=\"text-align: center;\"><u><strong>10th batch</strong></u></p>
+
+<div class=\"infoclass\"><strong>Jilon</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01815811202\">01815811202</a></div>
+
+
+</div></div><div class=\"demo-frame\">
+<a style=\"text-decoration:none\" href=\"#\"><div id=\"expander1\" class=\"headertitle expander\">Environmental Science and Hazard Studies(ESHS 09)</div></a>
+
+<div class=\"content\">
+
+<p style=\"text-align: center;\"><u><strong>7th batch</strong></u></p>
+
+<div class=\"infoclass\"><strong>Sovel Ahsan</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01672783818\">01672783818</a></div>
+
+<p style=\"text-align: center;\"><u><strong>8th Batch</strong></u></p>
+
+<div class=\"infoclass\"><strong><span data-ft=\"\{&quot;tn&quot;:&quot;K&quot;\}\" data-reactid=\".5i6.1:3:1:$comment337534039766637_337681196418588:0.0.$right.0.$left.0.0.1:$comment-body\"><span class=\"UFICommentBody\" data-reactid=\".5i6.1:3:1:$comment337534039766637_337681196418588:0.0.$right.0.$left.0.0.1:$comment-body.0\"><span data-reactid=\".5i6.1:3:1:$comment337534039766637_337681196418588:0.0.$right.0.$left.0.0.1:$comment-body.0.$end:0:$0:0\">Md.Obaydullah Al Hasib</span></span></span></strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01926863669\">01926863669</a></div>
+
+<div class=\"infoclass\"><strong>CR(Female)</strong><br />
+Jobaida Soma</div>
+
+<p style=\"text-align: center;\"><u><strong>9th Batch</strong></u></p>
+
+<div class=\"infoclass\"><strong>Tajbib</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01781939371\">01781939371</a></div>
+
+<p style=\"text-align: center;\"><u><strong>10th Batch</strong></u></p>
+<div class=\"infoclass\"><strong>Bappi</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01676123504\">01676123504</a></div>
+
+</div></div><div class=\"demo-frame\">
+<a style=\"text-decoration:none\" href=\"#\"><div id=\"expander1\" class=\"headertitle expander\">Business Administration(BA 10)</div></a>
+
+<div class=\"content\">
+
+<p style=\"text-align: center;\"><strong><u>7th Batch</u></strong></p>
+
+<div class=\"infoclass\"><strong>Farhad</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01744845755\">01744845755</a></div>
+
+<div class=\"infoclass\">CR(Female)<br />
+<strong>Fatema Binte Siraj</strong></div>
+
+<p style=\"text-align: center;\"><strong><u>8th Batch</u></strong></p>
+
+<div class=\"infoclass\"><strong>Araf</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01681769668\">01681769668</a></div>
+
+<div class=\"infoclass\">CR(Female)<br />
+<strong>Tazrin Jahan Jinia</strong></div>
+
+<p style=\"text-align: center;\"><u><strong>9th Batch</strong></u></p>
+
+<div class=\"infoclass\"><strong>Bijoy</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01834063347\">01834063347</a></div>
+
+<div class=\"infoclass\">CR(Female)<br />
+<strong>Bina</strong></div>
+
+
+<p style=\"text-align: center;\"><u><strong>10th Batch</strong></u></p>
+
+<div class=\"infoclass\"><strong>Nayan</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01676056347\">01676056347</a></div>
+
+<div class=\"infoclass\">CR(Female)<br />
+<strong>Muntaha Azmi</strong></div>
+
+</div></div><div class=\"demo-frame\">
+<a style=\"text-decoration:none\" href=\"#\"><div id=\"expander1\" class=\"headertitle expander\">Information and Communication Technology(ICT 11)</div></a>
+
+<div class=\"content\">
+
+<p style=\"text-align: center;\"><u><strong>8th batch</strong></u></p>
+
+<div class=\"infoclass\"><strong>Shaon Acharjee</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01926140813\">01926140813</a></div>
+
+<div class=\"infoclass\">CR(Female)<br />
+<strong>Jesmin Akter</strong></div>
+
+<p style=\"text-align: center;\"><u><strong>9th Batch</strong></u></p>
+
+<div class=\"infoclass\"><strong>Riazul haydar Robi</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01933056866\">01933056866</a></div>
+
+<div class=\"infoclass\">CR(Female)<br />
+<strong>Samiya chawdhuri Sarna</strong></div>
+
+<p style=\"text-align: center;\"><u><strong>10th Batch</strong></u></p>
+
+<div class=\"infoclass\"><strong>Kamrul Hasan</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01773138682\">01773138682</a></div>
+
+<div class=\"infoclass\">CR(Female)<br />
+<strong>NIsha Nahar</strong></div>
+
+
+</div></div><div class=\"demo-frame\">
+<a style=\"text-decoration:none\" href=\"#\"><div id=\"expander1\" class=\"headertitle expander\">Biotechnology and Genetic Engineering(BGE 12)</div></a>
+
+<div class=\"content\">
+
+<p style=\"text-align: center;\"><strong><u>8th Batch</u></strong></p>
+
+<div class=\"infoclass\"><strong>Md. Main Uddin Arif</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01683228206\">01683228206</a></div>
+
+<div style=\"text-align: center;\"><u><strong>9th Batch</strong></u></div>
+
+<div class=\"infoclass\"><strong>Anisur Rahman</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01623092488\">01623092488</a></div>
+
+<p style=\"text-align: center;\"><u><strong>10th Batch</strong></u></p>
+
+<div class=\"infoclass\"><strong>Farhan Shadman Chowdhury</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01957307199\">01957307199</a></div>
+
+<div class=\"infoclass\">CR(Female)<br />
+<strong>Soili Mondol</strong></div>
+
+
+</div></div><div class=\"demo-frame\">
+<a style=\"text-decoration:none\" href=\"#\"><div id=\"expander1\" class=\"headertitle expander\">Economics and Poverty Studies(EPS 13)</div></a>
+
+<div class=\"content\">
+
+<p style=\"text-align: center;\"><u><strong>8th Batch</strong></u></p>
+
+<div class=\"infoclass\"><strong>Md. Mahmudul Islam Khan(Shiblu)</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01687004274\">01687004274</a><br />
+website: <a href=\"http://www.economicsbd.com\">www.economicsbd.com</a><br />
+Fb Page: <a href=\"http://www.facebook.com/economicsbdmagazine\">www.facebook.com/economicsbdmagazine</a></div>
+
+<div class=\"infoclass\"><strong>Tonmoy</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01673290398\">01673290398</a></div>
+
+<div class=\"infoclass\">CR(Female)<br />
+<strong>Tahrima Sultana</strong></div>
+
+<p style=\"text-align: center;\"><u><strong>9th Batch</strong></u></p>
+
+<div class=\"infoclass\"><strong>Akter</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01739589059\">01739589059</a></div>
+
+<p style=\"text-align: center;\"><u><strong>10th Batch</strong></u></p>
+
+<div class=\"infoclass\"><strong>Sojib</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01981320661\">01981320661</a></div>
+
+</div></div><div class=\"demo-frame\">
+<a style=\"text-decoration:none\" href=\"#\"><div id=\"expander1\" class=\"headertitle expander\">Coastal Agriculture (CA 14)</div></a>
+
+<div class=\"content\">
+<p style=\"text-align: center;\"><u><strong>8th Batch</strong></u></p>
+
+<div class=\"infoclass\"><strong>Abdullah al Noman</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01674592648\">01674592648</a></div>
+
+<p style=\"text-align: center;\"><strong><u>9th Batch</u></strong></p>
+<div class=\"infoclass\">
+<strong>Rafat nur abdullah</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01682923290\">01682923290</a></div>
+<div class=\"infoclass\">CR(Female)<br />
+<strong>Sabrina jahan rimi</strong></div>
+<p style=\"text-align: center;\"><strong><u>10th Batch</u></strong></p>
+
+<div class=\"infoclass\"><strong>Ohi Alam</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01677139317\">01677139317</a></div>
+</div></div></div>",
       "categories": [
         "Android"
       ],
@@ -857,21 +2061,255 @@ function myFunction() \{
     },
         {
       "title": "Academic Officiary",
-      "url": "<!DOCTYPE html>
-<html>
-<body>
-
-<p id=\"demo\">Click the button to change the layout of this paragraph</p>
-<script>
-function myFunction() \{
-    var x = document.getElementById(\"demo\");
-    x.style.fontSize = \"25px\"; 
-    x.style.color = \"red\"; 
+      "url": "<style type=\"text/css\">.infoclass\{ font-size:15px;padding:8px; margin-bottom:3px; border-radius: 3px;  background-color:white;-webkit-box-shadow: inset 0px 0px 2px 0px rgba(49, 50, 50, 0.67);
+-moz-box-shadow:    inset 0px 0px 2px 0px rgba(49, 50, 50, 0.67);
+box-shadow:         inset 0px 0px 2px 0px rgba(49, 50, 50, 0.67);\}
+body\{background-color:#f5f5f5; font-family:serif; line-height:1.3em; border:3px solid #29b6f6; 	border-radius: 6px; padding:3px; padding-top:8px \}
+p\{font-size:15px\}
+.headertitle\{width:100%; font-size: 17px; background:#29b6f6; color:#FFFFFF; border-radius: 3px; text-align: center\}
+.maintitle\{font-weight:bold;width:100%; font-size: 17px; background:#039be5; color:#FFFFFF; border-radius: 15px;padding-top:10px; padding-bottom:10px; text-align: center; margin-bottom:10px\}
+.telephone \{
+    background-image: url(\"http://i61.tinypic.com/n6xtmw.png\");
+    background-position: 0 0px;
+    background-repeat: no-repeat;
+    background-size: 20px auto;
+    color: black;
+    padding-bottom: 3px;
+    padding-left: 22px;
+    text-decoration: none;
+    padding-top: 2px;
 \}
-</script>
-<button onclick=\"myFunction()\">Click Me!</button>
-</body>
-</html>",
+.telephone:hover\{color:#29b6f6\}
+.email \{
+    background-image: url(\"http://i60.tinypic.com/dqm2cy.png\");
+    background-position: 3px 3px;
+    background-repeat: no-repeat;
+    background-size: 18px auto;
+    color: black;
+    padding-bottom: 3px;
+    padding-left: 22px;
+    padding-top: 2px;
+    text-decoration: none;
+\}
+.email:hover\{color:#29b6f6\}
+</style>
+
+<div class=\"maintitle\">Academic Officiary</div>
+
+</div></div><div class=\"demo-frame\">
+<a style=\"text-decoration:none\" href=\"#\"><div id=\"expander1\" class=\"headertitle expander\">Computer Science and Telecommunication Engineering (CSTE 01)</div>
+</a><div class=\"content\">
+<div class=\"infoclass\"><strong>Sazib Bhowmik</strong><br />
+Lab Instructor<br />
+Phone : <a class=\"telephone\" href=\"tel:01715-573929\">01715-573929</a><br />
+E-mail : <a class=\"email\" href=\"mailto:sazib.bhowmik@yahoo.com\">sazib.bowmik@yahoo.com</a></div>
+
+<div class=\"infoclass\"><strong>Shihab Uddin</strong><br />
+SR Assistant<br />
+Phone : <a class=\"telephone\" href=\"tel:01712232198\">01712232198</a></div>
+
+<div class=\"infoclass\"><strong>Mohammad Sharaf Uddin(Sohel)</strong><br />
+SR Assistant<br />
+Phone : <a class=\"telephone\" href=\"tel:01816007081\">01816007081</a></div>
+
+<div class=\"infoclass\"><strong>Abdul Malek</strong><br />
+LDA<br />
+Phone : <a class=\"telephone\" href=\"tel:01740994148\">01740-994148</a></div>
+
+<div class=\"infoclass\"><strong>Iqbal Hassain Shahin</strong><br />
+MLSS<br />
+Phone : <a class=\"telephone\" href=\"tel:01815325162\">01815325162</a></div>
+
+</div></div><div class=\"demo-frame\">
+<a style=\"text-decoration:none\" href=\"#\"><div id=\"expander1\" class=\"headertitle expander\">Fisheries &amp; Marine Science(FIMS 02)</div>
+</a><div class=\"content\">
+<div class=\"infoclass\"><strong>Shafiqul Kabir Khan</strong><br />
+Senior Assistant<br />
+Phone : <a class=\"telephone\" href=\"tel:+8801727266389\">+880-1727266389</a><br />
+E-mail : <a class=\"email\" href=\"mailto:msk.nstu@gmail.com\">msk.nstu@gmail.com</a></div>
+
+<div class=\"infoclass\"><strong>Md.Shahidul Islam</strong><br />
+Senior Assistant<br />
+Phone : <a class=\"telephone\" href=\"tel:+8801716951641\">+880-1716951641</a><br />
+E-mail : <a class=\"email\" href=\"mailto:dulal.fims@gmail.com\">dulal.fims@gmail.com</a></div>
+
+<div class=\"infoclass\"><strong>Farhana Akhter</strong><br />
+Senior Assistant<br />
+Phone : <a class=\"telephone\" href=\"tel:+8801727922861\">+880-1727922861</a><br />
+E-mail : <a class=\"email\" href=\"mailto:farhana.fims@gmail.com\">farhana.fims@gmail.com</a></div>
+
+<div class=\"infoclass\"><strong>Md.Mominul Haq</strong><br />
+LDA Computer Operator<br />
+Phone : <a class=\"telephone\" href=\"tel:+8801811862784\">+880-1811862784</a><br />
+E-mail : <a class=\"email\" href=\"mailto:momin fims@gmail.com\">momin fims@gmail.com</a></div>
+
+<div class=\"infoclass\"><strong>Md.Mizanur Rahaman</strong><br />
+LDA Computer Operator<br />
+Phone : <a class=\"telephone\" href=\"tel:+8801819948956\">+880-1819948956</a><br />
+E-mail : <a class=\"email\" href=\"mailto:mizan-nstu@gmail.com\">mizan-nstu@gmail.com</a></div>
+
+<div class=\"infoclass\"><strong>Manto Chandra Barmon</strong><br />
+Lab Attendant<br />
+Phone : <a class=\"telephone\" href=\"tel:+8801729985937\">+880-1729985937</a><br />
+E-mail : <a class=\"email\" href=\"mailto:mcbarmon@yahoo.com\">mcbarmon@yahoo.com</a></div>
+
+<div class=\"infoclass\"><strong>Aminul Islam</strong><br />
+Master Roll Employee<br />
+Phone : <a class=\"telephone\" href=\"tel:+8801919845356\">+880-1919845356</a><br />
+E-mail : <a class=\"email\" href=\"mailto:mai-nstu@gmail.com\">mai-nstu@gmail.com</a></div>
+
+</div></div><div class=\"demo-frame\">
+<a style=\"text-decoration:none\" href=\"#\"><div id=\"expander1\" class=\"headertitle expander\">&nbsp;Pharmacy (03)</div>
+</a><div class=\"content\">
+<div class=\"infoclass\"><strong>Mohammad Shahab Uddin</strong><br />
+Section officer<br />
+Phone : <a class=\"telephone\" href=\"tel:01919900955\">01919-900955</a><br />
+E-mail : <a class=\"email\" href=\"mailto:shihab_77@yahoo.com\">shihab_77@yahoo.com</a></div>
+
+<div class=\"infoclass\"><strong>Delwar Hossain</strong><br />
+Lab Technician<br />
+Phone : <a class=\"telephone\" href=\"tel:01721402063\">01721402063</a><br />
+E-mail : <a class=\"email\" href=\"mailto:delramija@gmail.com\">delramija@gmail.com</a></div>
+
+<div class=\"infoclass\"><strong>G.M. Moniruzzaman</strong><br />
+Lab Technician<br />
+Phone : <a class=\"telephone\" href=\"tel:01718286119\">01718286119</a><br />
+E-mail: <a class=\"email\" href=\"mailto:gmmonirnstu@gmail.com\">gmmonirnstu@gmail.com</a></div>
+
+<div class=\"infoclass\"><strong>Mohammad Mostaq Ahmed</strong><br />
+LDA<br />
+Phone : <a class=\"telephone\" href=\"tel:01716751795\">01716751795</a><br />
+E-mail : <a class=\"email\" href=\"mailto:mostak_06@yahoo.com\">mostak_06@yahoo.com</a></div>
+
+<div class=\"infoclass\"><strong>Md. Faruk Azad</strong><br />
+LDA<br />
+Phone : <a class=\"telephone\" href=\"tel:01813324978\">01813324978</a><br />
+E-mail : <a class=\"email\" href=\"mailto:farukazadnstu@gmail.com\">farukazadnstu@gmail.com</a></div>
+
+<div class=\"infoclass\"><strong>Md. Altaf Ali</strong><br />
+Lab Attendant<br />
+Phone : <a class=\"telephone\" href=\"tel:01918389709\">01918-389709</a><br />
+E-mail : <a class=\"email\" href=\"mailto:arjualtaf90@gmail.com\">arjualtaf90@gmail.com</a></div>
+
+<div class=\"infoclass\"><strong>Md. Yusuf</strong><br />
+MLSS<br />
+Phone : <a class=\"telephone\" href=\"tel:01925092623\">01925-092623</a><br />
+E-mail : <a class=\"email\" href=\"mailto:mdyusufnstu@gmail.com\">mdyusufnstu@gmail.com</a></div>
+
+</div></div><div class=\"demo-frame\">
+<a style=\"text-decoration:none\" href=\"#\"><div id=\"expander1\" class=\"headertitle expander\">Applied Chemistry & Chemical Engineering(ACCE 04)</div>
+</a><div class=\"content\">
+<div class=\"infoclass\"><strong>Md. Ismail Hossain</strong><br />
+Section officer<br />
+Mobile : <a class=\"telephone\" href=\"tel:01728150181\">01728-150181</a> , <a class=\"telephone\" href=\"tel:01819985436\">01819-985436</a><br />
+Tel : <a class=\"telephone\" href=\"tel:+88032171485\">+88-0321-71485</a><br />
+E-mail : shiponnstu@gmail.com</div>
+
+<div class=\"infoclass\"><strong>Ayub&nbsp; Ali</strong><br />
+Lab Technician<br />
+Phone : <a class=\"telephone\" href=\"tel:01816364583\">01816364583</a></div>
+
+<div class=\"infoclass\"><strong>Ibrahim&nbsp; Khalil</strong><br />
+LDA<br />
+Phone : <a class=\"telephone\" href=\"tel:01828019636\">01828019636</a></div>
+
+<div class=\"infoclass\"><strong>Md. Jasin Uddin</strong><br />
+LDA<br />
+Phone : <a class=\"telephone\" href=\"tel:01719479991\">01719479991</a></div>
+
+<div class=\"infoclass\"><strong>Bijoy Kumar Poddar</strong><br />
+Lab Attendant<br />
+Phone : <a class=\"telephone\" href=\"tel:01815403780\">01815403780</a></div>
+
+<div class=\"infoclass\"><strong>MD. Yousuf Ali</strong><br />
+M.L.S.S<br />
+Phone : <a class=\"telephone\" href=\"tel:01726854487\">01726854487</a></div>
+
+<div class=\"infoclass\"><strong>Md.Ahsan Ullah</strong><br />
+Proctor office<br />
+Phone : <a class=\"telephone\" href=\"tel:01812669662\">01812669662</a></div>
+
+</div></div><div class=\"demo-frame\">
+<a style=\"text-decoration:none\" href=\"#\"><div id=\"expander1\" class=\"headertitle expander\">Microbiology(MBG 05)</div>
+</a><div class=\"content\">
+<div class=\"infoclass\"><strong>Md. Yasin</strong><br />
+L.D<br />
+Mobile : <a class=\"telephone\" href=\"tel:01845551985\">01845551985</a></div>
+
+<div class=\"infoclass\"><strong>Salah Uddin</strong><br />
+M.L.S.S<br />
+Mobile : <a class=\"telephone\" href=\"tel:01715147879\">01715147879</a></div>
+
+<div class=\"infoclass\"><strong>Shafiqur Rahman</strong><br />
+Master Roll<br />
+Mobile : <a class=\"telephone\" href=\"tel:01740850421\">01740850421</a></div>
+
+<div class=\"infoclass\"><strong>Md.Abdullah</strong><br />
+Master roll<br />
+Mobile : <a class=\"telephone\" href=\"tel:01724347144\">01724347144</a></div>
+
+</div></div><div class=\"demo-frame\">
+<a style=\"text-decoration:none\" href=\"#\"><div id=\"expander1\" class=\"headertitle expander\">Applied Math(A. MTH 06)</div>
+</a><div class=\"content\">
+<div class=\"infoclass\"><strong>Mohammad Toyaha</strong><br />
+Section officer<br />
+Phone : <a class=\"telephone\" href=\"tel:+88032163298\">+88032163298</a><br />
+E-mail : <a class=\"email\" href=\"mailto:toyaha.nstu@gmail.com\">toyaha.nstu@gmail.com</a></div>
+
+<div class=\"infoclass\"><strong>Anowar Hussen Shumon</strong><br />
+M.L.M.S<br />
+Phone : <a class=\"telephone\" href=\"tel:01725369490\">01725369490</a></div>
+
+</div></div><div class=\"demo-frame\">
+<a style=\"text-decoration:none\" href=\"#\"><div id=\"expander1\" class=\"headertitle expander\">English(07)</div>
+</a><div class=\"content\">
+<div class=\"infoclass\"><strong>A S M Sayem</strong><br />
+Section officer<br />
+Phone: <a class=\"telephone\" href=\"tel:01716178646\">01716178646</a><br />
+Email: <a class=\"email\" href=\"mailto:sayempt07@yahoo.com\">sayempt07@yahoo.com</a></div>
+
+<div class=\"infoclass\"><strong>Mohammed Golam Sarwar</strong><br />
+LDA<br />
+Phone: <a class=\"telephone\" href=\"tel:01814773533\">01814773533</a></div>
+
+<div class=\"infoclass\"><strong>Masud Mia</strong><br />
+MLSS<br />
+Phone: <a class=\"telephone\" href=\"tel:01735003678\">01735003678</a></div>
+
+</div></div><div class=\"demo-frame\">
+<a style=\"text-decoration:none\" href=\"#\"><div id=\"expander1\" class=\"headertitle expander\">FTNS(08)+ ESHS(09)+ BA(10)</div>
+</a><div class=\"content\">
+<div class=\"infoclass\"><strong>Kamrunnahar</strong><br />
+Senior Assistant<br />
+Phone : <a class=\"telephone\" href=\"tel:01863015364\">01863015364</a></div>
+
+<div class=\"infoclass\"><strong>Nazrul Islam</strong><br />
+Office Assistant<br />
+Phone : <a class=\"telephone\" href=\"tel:01811285763\">01811285763</a></div>
+
+<div class=\"infoclass\"><strong>MD. Harun</strong><br />
+M.L.S.S<br />
+Phone : <a class=\"telephone\" href=\"tel:01861123835\">01861123835</a></div>
+
+</div></div><div class=\"demo-frame\">
+<a style=\"text-decoration:none\" href=\"#\"><div id=\"expander1\" class=\"headertitle expander\">ICT(11)+ BGE(12)+ EPS(13)+ CA(14)</div>
+</a><div class=\"content\">
+<div class=\"infoclass\"><strong>Kohinur Begum</strong><br />
+Senior Assistant<br />
+Phone : <a class=\"telephone\" href=\"tel:01938436570\">01938436570</a></div>
+
+<div class=\"infoclass\"><strong>Shik Abdullah Shopon</strong><br />
+Office Assistant<br />
+Phone : <a class=\"telephone\" href=\"tel:01813173689\">01813173689</a></div>
+
+<div class=\"infoclass\"><strong>Yasin Arafat Rafi</strong><br />
+Master role<br />
+Phone : <a class=\"telephone\" href=\"tel:01814430366\">01814430366</a></div>
+
+<div class=\"infoclass\"><strong>Akram Hossain</strong><br />
+M.L.S.S<br />
+Phone : <a class=\"telephone\" href=\"tel:01818517303\">01818517303</a></div>
+</div></div>",
       "categories": [
         "Android"
       ],
@@ -883,21 +2321,91 @@ function myFunction() \{
     },
         {
       "title": "Administrative",
-      "url": "<!DOCTYPE html>
-<html>
-<body>
-
-<p id=\"demo\">Click the button to change the layout of this paragraph</p>
-<script>
-function myFunction() \{
-    var x = document.getElementById(\"demo\");
-    x.style.fontSize = \"25px\"; 
-    x.style.color = \"red\"; 
+      "url": "<style type=\"text/css\">.infoclass\{ font-size:15px;padding:8px; margin-bottom:3px; border-radius: 3px;  background-color:white;-webkit-box-shadow: inset 0px 0px 2px 0px rgba(49, 50, 50, 0.67);
+-moz-box-shadow:    inset 0px 0px 2px 0px rgba(49, 50, 50, 0.67);
+box-shadow:         inset 0px 0px 2px 0px rgba(49, 50, 50, 0.67);\}
+body\{background-color:#f5f5f5; font-family:serif; line-height:1.3em; border:3px solid #29b6f6; 	border-radius: 6px; padding:3px; padding-top:8px \}
+p\{font-size:15px\}
+.headertitle\{width:100%; font-size: 17px; background:#29b6f6; color:#FFFFFF; border-radius: 3px; text-align: center\}
+.maintitle\{font-weight:bold;width:100%; font-size: 17px; background:#039be5; color:#FFFFFF; border-radius: 15px;padding-top:10px; padding-bottom:10px; text-align: center; margin-bottom:10px\}
+.telephone \{
+    background-image: url(\"http://i61.tinypic.com/n6xtmw.png\");
+    background-position: 0 0px;
+    background-repeat: no-repeat;
+    background-size: 20px auto;
+    color: black;
+    padding-bottom: 3px;
+    padding-left: 22px;
+    text-decoration: none;
+    padding-top: 2px;
 \}
-</script>
-<button onclick=\"myFunction()\">Click Me!</button>
-</body>
-</html>",
+.telephone:hover\{color:#29b6f6\}
+.email \{
+    background-image: url(\"http://i60.tinypic.com/dqm2cy.png\");
+    background-position: 3px 3px;
+    background-repeat: no-repeat;
+    background-size: 18px auto;
+    color: black;
+    padding-bottom: 3px;
+    padding-left: 22px;
+    padding-top: 2px;
+    text-decoration: none;
+\}
+.email:hover\{color:#29b6f6\}
+</style>
+<div class=\"maintitle\">Administrative</div>
+
+
+
+<div>
+<div class=\"headertitle\">Proctor</div>
+</div>
+
+<div class=\"infoclass\"><strong>Dr. Newaz Mohammed Bahadur</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:71487\">71487</a><br />
+Mobile: <a class=\"telephone\" href=\"tel:01911110671\">01911110671</a><br />
+Email: <a class=\"email\" href=\"mailto:nmbahadur@yahoo.com\">nmbahadur@yahoo.com</a></div>
+
+<div style=\"text-align: center;\"><strong><u>Assistant Proctor</u></strong></div>
+
+<div class=\"infoclass\"><strong>Md. Robiul Hasan(Rony)</strong><br />
+Mobile: <a class=\"telephone\" href=\"tel:+8801718589668\">+8801718589668</a><br />
+Email: <a class=\"email\" href=\"mailto:rhasan_rony@yahoo.com\">rhasan_rony@yahoo.com</a></div>
+
+<div class=\"infoclass\"><strong>Mohammad Mohinuzzaman Moyeen</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01819509301\">01819509301</a><br />
+Email: <a class=\"email\" href=\"mailto:moyeen_envsc@yahoo.com\">moyeen_envsc@yahoo.com</a></div>
+
+<div class=\"infoclass\"><strong>Md. Monir Hossain</strong><br />
+phone: <a class=\"telephone\" href=\"tel:01670117946\">01670117946</a><br />
+Email: <a class=\"email\" href=\"mailto:monir.pharma@yahoo.com\">monir.pharma@yahoo.com</a></div>
+
+
+<div class=\"infoclass\"><strong>Mehede Hassan Rubel</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:+8801710586359\">+8801710586359</a><br />
+Fax: <a class=\"telephone\" href=\"tel:+88032162788\">+88032162788</a><br />
+Email: <a class=\"email\" href=\"mailto:mhrubel_188@yahoo.com\">mhrubel_188@yahoo.com</a></div>
+
+
+<div class=\"infoclass\"><strong>Kawsar Hossen</strong><br />
+Mobile: <a class=\"telephone\" href=\"tel:01710395738\">01710395738</a>, <a class=\"telephone\" href=\"tel:01914161707\">01914161707</a><br />
+Email: <a class=\"email\" href=\"mailto:kwsarbau@gmail.com\">kwsarbau@gmail.com</a></div>
+
+<div>
+<div class=\"headertitle\">Student Advice and Guidance Department</div>
+</div>
+
+<div class=\"infoclass\">
+    Director<br/>
+    <strong>Afsana Mousume</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01716269848\">01716269848</a><br />
+Email: <a class=\"email\" href=\"mailto:afsana.mousume@gmail.com\">afsana.mousume@gmail.com</a></div>
+<div class=\"infoclass\">Assistant Director<br/><strong>Md. Arifur Rahman</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01913849378\">01913849378</a><br />
+Email: <a class=\"email\" href=\"mailto:fair_512@yahoo.com\">fair_512@yahoo.com</a></div>
+<div class=\"infoclass\"><strong>Md. Rifat Hasan</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01719422462\">01719422462</a><br />
+Email: <a class=\"email\" href=\"mailto:rifat_math2004@yahoo.com\">rifat_math2004@yahoo.com</a></div>",
       "categories": [
         "Android"
       ],
@@ -909,9 +2417,7 @@ function myFunction() \{
     },
         {
       "title": "Student Activities",
-      "url": "
-<!-- saved from url=(0090)file:///home/nazmul/Desktop/NSTU%20Info/nstuinfo.github.com-master/student_activities.html -->
-<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><style type=\"text/css\">.infoclass\{ font-size:15px;padding:8px; margin-bottom:3px; border-radius: 3px;  background-color:white;-webkit-box-shadow: inset 0px 0px 2px 0px rgba(49, 50, 50, 0.67);
+      "url": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><style type=\"text/css\">.infoclass\{ font-size:15px;padding:8px; margin-bottom:3px; border-radius: 3px;  background-color:white;-webkit-box-shadow: inset 0px 0px 2px 0px rgba(49, 50, 50, 0.67);
 -moz-box-shadow:    inset 0px 0px 2px 0px rgba(49, 50, 50, 0.67);
 box-shadow:         inset 0px 0px 2px 0px rgba(49, 50, 50, 0.67);\}
 body\{background-color:#f5f5f5; font-family:serif; line-height:1.3em; 	border-radius: 6px; padding:3px; padding-top:8px \}
@@ -1240,21 +2746,190 @@ Email: <a class=\"email\" href=\"mailto:hafizullahshamim@gmail.com\">hafizullahs
     },
         {
       "title": "Hall Office",
-      "url": "<!DOCTYPE html>
-<html>
-<body>
-
-<p id=\"demo\">Click the button to change the layout of this paragraph</p>
-<script>
-function myFunction() \{
-    var x = document.getElementById(\"demo\");
-    x.style.fontSize = \"25px\"; 
-    x.style.color = \"red\"; 
+      "url": "<style type=\"text/css\">.infoclass\{ font-size:15px;padding:8px; margin-bottom:3px; border-radius: 3px;  background-color:white;-webkit-box-shadow: inset 0px 0px 2px 0px rgba(49, 50, 50, 0.67);
+-moz-box-shadow:    inset 0px 0px 2px 0px rgba(49, 50, 50, 0.67);
+box-shadow:         inset 0px 0px 2px 0px rgba(49, 50, 50, 0.67);\}
+body\{background-color:#f5f5f5; font-family:serif; line-height:1.3em; border:3px solid #29b6f6; 	border-radius: 6px; padding:3px; padding-top:8px \}
+p\{font-size:15px\}
+.headertitle\{width:100%; font-size: 17px; background:#29b6f6; color:#FFFFFF; border-radius: 3px; text-align: center\}
+.maintitle\{font-weight:bold;width:100%; font-size: 17px; background:#039be5; color:#FFFFFF; border-radius: 15px;padding-top:10px; padding-bottom:10px; text-align: center; margin-bottom:10px\}
+.telephone \{
+    background-image: url(\"http://i61.tinypic.com/n6xtmw.png\");
+    background-position: 0 0px;
+    background-repeat: no-repeat;
+    background-size: 20px auto;
+    color: black;
+    padding-bottom: 3px;
+    padding-left: 22px;
+    text-decoration: none;
+    padding-top: 2px;
 \}
-</script>
-<button onclick=\"myFunction()\">Click Me!</button>
-</body>
-</html>",
+.telephone:hover\{color:#29b6f6\}
+.email \{
+    background-image: url(\"http://i60.tinypic.com/dqm2cy.png\");
+    background-position: 3px 3px;
+    background-repeat: no-repeat;
+    background-size: 18px auto;
+    color: black;
+    padding-bottom: 3px;
+    padding-left: 22px;
+    padding-top: 2px;
+    text-decoration: none;
+\}
+.email:hover\{color:#29b6f6\}
+</style>
+<div class=\"maintitle\">Hall office</div>
+
+<div>
+<div class=\"headertitle\">ASH Hall</div>
+</div>
+
+<div class=\"infoclass\">Provost<br />
+<strong>Dr Muhammed Yousuf Miah</strong><br />
+Mobile: <a class=\"telephone\" href=\"tel:01742710338\">01742710338</a><br />
+Email: <a class=\"email\" href=\"mailto:yan19742003@yahoo.com\">yan19742003@yahoo.com</a></div>
+
+<div class=\"infoclass\">Assistant Provost<br />
+<div class=\"infoclass\"><strong>Mohammad Ruhul Amin</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01724756620\">01724756620</a><br />
+Email: <a class=\"email\" href=\"mailto:ruhulmicro13@yahoo.com\">ruhulmicro13@yahoo.com</a></div>
+
+<div class=\"infoclass\"><strong>MAHABUBUR RAHMAN</strong> (FARHAD)<br />
+Mobile: <a class=\"telephone\" href=\"tel:01717296238\">01717-296238</a><br />
+Email: <a class=\"email\" href=\"mailto:farhad.mrf@gmail.com\">farhad.mrf@gmail.com</a><br />
+website: <a href=\"www.fims-nstu.org\">www.fims-nstu.org</a></div>
+
+<div class=\"infoclass\"><strong>M. GOLAM MUSTAFA</strong><br />
+Qualification: B.Sc (Hon&rsquo;s), M.Sc (Marine Sciences)<br />
+Mobile: <a class=\"telephone\" href=\"tel:+8801712186434\">+8801712-186434</a><br />
+Email: <a class=\"email\" href=\"mailto:mustafa.nstu2013@gmail.com\">mustafa.nstu2013@gmail.com</a><br />
+website: <a href=\"www.fims-nstu.org\">www.fims-nstu.org</a></div>
+
+
+<div class=\"infoclass\"><strong>Md. Mamun ur Rashid</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01911141120\">01911141120</a><br />
+Email: <a class=\"email\" href=\"mailto:mamun_pharma@yahoo.com\">mamun_pharma@yahoo.com</a><br />
+website: <a href=\"www.nstupharma.org\">www.nstupharma.org</a></div>
+
+<div class=\"infoclass\"><strong>Abu Bakkar Siddique</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:+8801673716634\">+8801673716634</a>, <a class=\"telephone\" href=\"tel:01919494905\">01919494905</a><br/>
+Email: <a class=\"email\" href=\"mailto:siddique1506@gmail.com\">siddique1506@gmail.com</a></div>
+
+<div>
+<div class=\"headertitle\">BKH Hall</div>
+</div>
+
+<div style=\"text-align: center;\"><u><strong>Provost </strong></u></div>
+
+<div class=\"infoclass\"><strong>MEHEDI MAHMUDUL HASAN</strong><br />
+Mobile: <a class=\"telephone\" href=\"tel:01727240180\">01727240180</a><br />
+Email: <a class=\"email\" href=\"mailto:mehedi_nstu@yahoo.com\">mehedi_nstu@yahoo.com</a><br />
+website: <a href=\"www.fims-nstu.org\">www.fims-nstu.org</a></div>
+
+<div style=\"text-align: center;\"><u><strong>Assistant Provost</strong></u></div>
+
+<div class=\"infoclass\"><strong>Md. Rafiqul Islam</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01717300701\">01717300701</a><br />
+Email: <a class=\"email\" href=\"mailto:rafiq_du228@yahoo.com\">rafiq_du228@yahoo.com</a></div>
+
+<div class=\"infoclass\"><strong>Md. Kamal Uddin</strong><br />
+Mobile: <a class=\"telephone\" href=\"tel:01724268223\">01724268223</a><br />
+Email: <a class=\"email\" href=\"mailto:cse_kamal_ud@yahoo.com\">cse_kamal_ud@yahoo.com</a></div>
+
+<div class=\"infoclass\"><strong>Md. Jashim Uddin</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01856921311\">01856921311</a><br />
+Email: <a class=\"email\" href=\"mailto:mdjaud@yahoo.com\">mdjaud@yahoo.com</a></div>
+
+<div class=\"infoclass\"><strong>Fateha Khanam Bappee</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01726772578\">01726772578</a><br />
+Email: <a class=\"email\" href=\"mailto:bappeenstu@gmail.com\">bappeenstu@gmail.com</a></div>
+
+<div class=\"infoclass\"><strong>Mohammad Mehadi Hassan Chowdhury</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01710527044\">01710527044</a><br />
+Email: <a class=\"email\" href=\"mailto:md.mehadihassanchy@yahoo.com\">md.mehadihassanchy@yahoo.com</a></div>
+
+<div class=\"infoclass\"><strong>Fatematuz Juhora Evamoni</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01710066124\">01710066124</a><br />
+Email: <a class=\"email\" href=\"mailto:Eva.nstu@yahoo.com\">Eva.nstu@yahoo.com</a></div>
+
+<div class=\"infoclass\"><strong>Binata Rani Sen</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01676206194\">01676206194</a><br />
+Email: <a class=\"email\" href=\"mailto:ranibinata@gmail.com\">ranibinata@gmail.com</a></div>
+
+<div class=\"infoclass\">Section Officer<br />
+<strong>Nargis Akter Helaly</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01913134917\">01913134917</a><br />
+Email: <a class=\"email\" href=\"mailto:nargishelalynstu@gmail.com\">nargishelalynstu@gmail.com</a></div>
+
+
+
+<div>
+<div>
+<div class=\"headertitle\">Sub Technical officer</div>
+</div>
+</div>
+
+<div class=\"infoclass\"><strong>Eng. Mojibur Rahman</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01714777766\">01714777766</a></div>
+
+<div class=\"infoclass\"><strong>Eng. Nahid</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01832103742\">01832103742</a></div>
+
+<div class=\"headertitle\"><span style=\"font-size:14px;\">Web Mineral</span></div>
+
+<div class=\"infoclass\"><strong>Masud</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01922590780\">01922590780</a></div>
+
+<div>
+<div class=\"headertitle\">Dish connection</div>
+</div>
+
+<div class=\"infoclass\"><strong>Sodesh</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01715692969\">01715692969</a></div>
+
+<div>
+<div class=\"headertitle\">Plumber</div>
+</div>
+
+<div class=\"infoclass\"><strong>Sobbir</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01921749571\">01921749571</a></div>
+
+<div>
+<div class=\"headertitle\">Electrician</div>
+</div>
+
+<div class=\"infoclass\"><strong>Sohid </strong>(he will work for ASH, BKH)<br />
+Phone: <a class=\"telephone\" href=\"tel:01825739191\">01825739191</a></div>
+
+<div class=\"infoclass\"><strong>Jakir</strong> (he will work for VC Banglo)<br />
+Phone: <a class=\"telephone\" href=\"tel:01720607414\">01720607414</a></div>
+
+<div>
+<div class=\"headertitle\">Karpenter</div>
+</div>
+
+<div class=\"infoclass\"><strong>Abdul Khalek</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01923606467\">01923606467</a></div>
+
+<div>
+<div class=\"headertitle\">Pump Operator</div>
+</div>
+
+<div class=\"infoclass\"><strong>Abu Sayem</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01816867870\">01816867870</a></div>
+
+<div class=\"infoclass\"><strong>Sohel</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01739745415\">01739745415</a></div>
+
+<div>
+<div class=\"headertitle\">Cleaner</div>
+</div>
+
+<div class=\"infoclass\"><strong>Abdul Rob</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01821916129\">01821916129</a></div>
+
+<div class=\"infoclass\"><strong>Porimol</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01812437308\">01812437308</a></div>",
       "categories": [
         "Android"
       ],
@@ -1266,21 +2941,335 @@ function myFunction() \{
     },
         {
       "title": "Emergency Contacts",
-      "url": "<!DOCTYPE html>
-<html>
-<body>
-
-<p id=\"demo\">Click the button to change the layout of this paragraph</p>
-<script>
-function myFunction() \{
-    var x = document.getElementById(\"demo\");
-    x.style.fontSize = \"25px\"; 
-    x.style.color = \"red\"; 
+      "url": "<style type=\"text/css\">.infoclass\{ font-size:15px;padding:8px; margin-bottom:3px; border-radius: 3px;  background-color:white;-webkit-box-shadow: inset 0px 0px 2px 0px rgba(49, 50, 50, 0.67);
+-moz-box-shadow:    inset 0px 0px 2px 0px rgba(49, 50, 50, 0.67);
+box-shadow:         inset 0px 0px 2px 0px rgba(49, 50, 50, 0.67);\}
+body\{background-color:#f5f5f5; font-family:serif; line-height:1.3em; border:3px solid #29b6f6; 	border-radius: 6px; padding:3px; padding-top:8px \}
+p\{font-size:15px\}
+.headertitle\{width:100%; font-size: 17px; background:#29b6f6; color:#FFFFFF; border-radius: 3px; text-align: center\}
+.maintitle\{font-weight:bold;width:100%; font-size: 17px; background:#039be5; color:#FFFFFF; border-radius: 15px;padding-top:10px; padding-bottom:10px; text-align: center; margin-bottom:10px\}
+.telephone \{
+    background-image: url(\"http://i61.tinypic.com/n6xtmw.png\");
+    background-position: 0 0px;
+    background-repeat: no-repeat;
+    background-size: 20px auto;
+    color: black;
+    padding-bottom: 3px;
+    padding-left: 22px;
+    text-decoration: none;
+    padding-top: 2px;
 \}
-</script>
-<button onclick=\"myFunction()\">Click Me!</button>
-</body>
-</html>",
+.telephone:hover\{color:#29b6f6\}
+.email \{
+    background-image: url(\"http://i60.tinypic.com/dqm2cy.png\");
+    background-position: 3px 3px;
+    background-repeat: no-repeat;
+    background-size: 18px auto;
+    color: black;
+    padding-bottom: 3px;
+    padding-left: 22px;
+    padding-top: 2px;
+    text-decoration: none;
+\}
+.email:hover\{color:#29b6f6\}
+</style>
+
+<div class=\"maintitle\">Emergency Contacts</div>
+
+<p>For Noakhali Zilla don&#39;t forget to add phone code +880-321-</p>
+
+</div></div><div class=\"demo-frame\">
+<a style=\"text-decoration:none\" href=\"#\"><div id=\"expander1\" class=\"headertitle expander\">Noakhali Zilla</div></a>
+
+<div class=\"content\">
+
+
+<div class=\"infoclass\"><strong>DC</strong> : <a class=\"telephone\" href=\"tel:61021\">61021</a>, <a class=\"telephone\" href=\"tel:61614\">61614</a><br />
+Fax: <a class=\"telephone\" href=\"tel:61062\">61062</a>, <a class=\"telephone\" href=\"tel:61757\">61757</a></div>
+
+<div class=\"infoclass\"><strong>ADC</strong>: <a class=\"telephone\" href=\"tel:61005\">61005</a></div>
+
+<div class=\"infoclass\"><strong>NDC</strong>: <a class=\"telephone\" href=\"tel:61245\">61245</a></div>
+
+<div class=\"infoclass\"><strong>UNO</strong>: <a class=\"telephone\" href=\"tel:61095\">61095</a></div>
+
+<div class=\"infoclass\"><strong>Meyor</strong>: <a class=\"telephone\" href=\"tel:61010\">61010</a></div>
+
+<div class=\"infoclass\"><strong>LGED</strong>, <strong>Executive Engineer</strong>: <a class=\"telephone\" href=\"tel:61340\">61340</a></div>
+
+<div class=\"infoclass\"><strong>Power Division</strong>: <a class=\"telephone\" href=\"tel:61040\">61040</a></div>
+
+</div></div><div class=\"demo-frame\">
+<a style=\"text-decoration:none\" href=\"#\"><div id=\"expander1\" class=\"headertitle expander\">Police</div></a>
+<div class=\"content\">
+
+<div class=\"infoclass\"><strong>Police Super:</strong> <a class=\"telephone\" href=\"tel:61030\">61030</a>, <a class=\"telephone\" href=\"tel:61670\">61670</a><br />
+Fax: <a class=\"telephone\" href=\"tel:61123\">61123</a></div>
+
+<div class=\"infoclass\"><strong>Addtional Police Super:</strong> <a class=\"telephone\" href=\"tel:62132\">62132</a>, <a class=\"telephone\" href=\"tel:61047\">61047</a></div>
+
+<div class=\"infoclass\"><strong>OC</strong>, Sudharam: <a class=\"telephone\" href=\"tel:62067\">62067</a>, <a class=\"telephone\" href=\"tel:62281\">62281</a></div>
+
+</div></div><div class=\"demo-frame\">
+<a style=\"text-decoration:none\" href=\"#\"><div id=\"expander1\" class=\"headertitle expander\">Fire Station</div></a>
+<div class=\"content\">
+
+<div class=\"infoclass\"><strong>Assistant Director:</strong> <a class=\"telephone\" href=\"tel:61258\">61258</a></div>
+
+<div class=\"infoclass\"><strong>Maijdi Fire Station: </strong><a class=\"telephone\" href=\"tel:62031\">62031</a></div>
+
+</div></div><div class=\"demo-frame\">
+<a style=\"text-decoration:none\" href=\"#\"><div id=\"expander1\" class=\"headertitle expander\">Courier Service</div></a>
+<div class=\"content\">
+
+<div class=\"infoclass\"><strong>SA Poribohon</strong>, Maijdi: <a class=\"telephone\" href=\"tel:71006\">71006</a></div>
+
+<div class=\"infoclass\"><strong>Continental</strong>, Maijdi: <a class=\"telephone\" href=\"tel:01198153030\">01198153030</a></div>
+
+<div class=\"infoclass\"><strong>Sundorban</strong>, Maijdi: <a class=\"telephone\" href=\"tel:61846\">61846</a></div>
+
+</div></div><div class=\"demo-frame\">
+<a style=\"text-decoration:none\" href=\"#\"><div id=\"expander1\" class=\"headertitle expander\">Journalist of Noakhali</div></a>
+<div class=\"content\">
+
+<div class=\"infoclass\"><strong>Noakhali Press Club</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:62082\">62082</a></div>
+
+<div class=\"infoclass\"><strong>Ittefaq</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01712064800\">01712064800</a><br />
+Email: <a class=\"email\" href=\"mailto:alamgir.yousuf@gmail.com\">alamgir.yousuf@gmail.com</a></div>
+
+<div class=\"infoclass\"><strong>Inqilab</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01711141054\">01711141054</a><br />
+Email: <a class=\"email\" href=\"mailto:inqilabnoa@yahoo.com\">inqilabnoa@yahoo.com</a></div>
+
+<div class=\"infoclass\"><strong>Jugantor</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01670909926\">01670909926</a><br />
+Email: <a class=\"email\" href=\"mailto:hanifjugantor@yahoo.com\">hanifjugantor@yahoo.com</a></div>
+
+<div class=\"infoclass\"><strong>Sangbad</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01718599551\">01718599551</a></div>
+
+<div class=\"infoclass\"><strong>Bhorerkagoj</strong><br />
+phone: <a class=\"telephone\" href=\"tel:01711181245\">01711181245</a><br />
+Email: <a class=\"email\" href=\"mailto:bijonnoakhali@gmail.com\">bijonnoakhali@gmail.com</a></div>
+
+<div class=\"infoclass\"><strong>Kalerkantho</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01711181383\">01711181383</a><br />
+Email: <a class=\"email\" href=\"mailto:mironkalerkantho@yahoo.com\">mironkalerkantho@yahoo.com</a></div>
+
+<div class=\"infoclass\"><strong>Somokal</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01711008033\">01711008033</a><br />
+Email: <a class=\"email\" href=\"mailto:rudramasud@gmail.com\">rudramasud@gmail.com</a></div>
+
+<div class=\"infoclass\"><strong>Jonokontho</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01711858555\">01711858555</a><br />
+Email: <a class=\"email\" href=\"mailto:forhadnsu@yahoo.com\">forhadnsu@yahoo.com</a></div>
+
+<div class=\"infoclass\"><strong>Prothom Alo</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01817400170\">01817400170</a><br />
+Email: <a class=\"email\" href=\"mailto:p.alonoakhali@gmail.com\">p.alonoakhali@gmail.com</a>, <a class=\"email\" href=\"mailto:palosenbag@gmail.com\">palosenbag@gmail.com</a></div>
+
+<div class=\"infoclass\"><strong>Amader Somoy</strong><br />
+Mobile: <a class=\"telephone\" href=\"tel:01711050665\">01711050665</a><br />
+Email: <a class=\"email\" href=\"mailto:kamrulnoakhali@gmail.com\">kamrulnoakhali@gmail.com</a></div>
+
+<div class=\"infoclass\"><strong>Amar Desh &amp; Daily Star</strong><br />
+Mobile: <a class=\"telephone\" href=\"tel:01556474875\">01556474875</a><br />
+Email: <a class=\"email\" href=\"mailto:nurulamin@journalist.com\">nurulamin@journalist.com</a></div>
+
+<div class=\"infoclass\"><strong>Noya Digonto</strong><br />
+Mobile: <a class=\"telephone\" href=\"tel:01822403945\">01822403945</a><br />
+Email: <a class=\"email\" href=\"mailto:hanif_loging@yahoo.com\">hanif_loging@yahoo.com</a></div>
+
+<div class=\"infoclass\"><strong>Jay Jay Din</strong><br />
+mobile: <a class=\"telephone\" href=\"tel:01712101664\">01712101664</a><br />
+Email: <a class=\"email\" href=\"mailto:anmonju@yahoo.com\">anmonju@yahoo.com</a></div>
+
+<div class=\"infoclass\"><strong>New Age</strong><br />
+Mobile: <a class=\"telephone\" href=\"tel:01712196787\">01712196787</a><br />
+Email: <a class=\"email\" href=\"mailto:bikash@gmail.com\">bikash@gmail.com</a></div>
+
+<div class=\"infoclass\"><strong>ManobJomin</strong><br />
+Mobile: <a class=\"telephone\" href=\"tel:01715210600\">01715210600</a><br />
+Email: <a class=\"email\" href=\"mailto:nashirbadol@yahoo.com\">nashirbadol@yahoo.com</a></div>
+
+<div class=\"infoclass\"><strong>Observer</strong><br />
+Mobile: <a class=\"telephone\" href=\"tel:01712147269\">01712147269</a><br />
+Email: <a class=\"email\" href=\"mailto:dinmd_ncc@yahoo.com\">dinmd_ncc@yahoo.com</a></div>
+
+<div class=\"infoclass\"><strong>BDnews</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01712101664\">01712101664</a><br />
+Email: <a class=\"email\" href=\"mailto:anmonju@yahoo.com\">anmonju@yahoo.com</a></div>
+
+<div class=\"infoclass\"><strong>BDnews24.com</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01717502266\">01717502266</a></div>
+
+<div class=\"infoclass\"><strong>Nokhali Web</strong><br />
+phone: <a class=\"telephone\" href=\"tel:01916553366\">01916553366</a><br />
+Email: <a class=\"email\" href=\"mailto:editor@noakhaliweb.com.bd\">editor@noakhaliweb.com.bd</a></div>
+
+<div class=\"infoclass\"><strong>Coloman Noakhali</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01711008033\">01711008033</a><br />
+Email: <a class=\"email\" href=\"mailto:editor@chalomannoakhali.com\">editor@chalomannoakhali.com</a></div>
+
+</div></div><div class=\"demo-frame\">
+<a style=\"text-decoration:none\" href=\"#\"><div id=\"expander1\" class=\"headertitle expander\">Private Clinic</div></a>
+<div class=\"content\">
+
+<div class=\"infoclass\"><strong>Royal Hospital</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01811601071\">01811601071</a></div>
+
+<div class=\"infoclass\"><strong>Good Hill hospital</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:61335\">61335</a>, <a class=\"telephone\" href=\"tel:61087\">61087</a></div>
+
+<div class=\"infoclass\"><strong>Prime Hospital</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:63016\">63016</a>, <a class=\"telephone\" href=\"tel:62376\">62376</a></div>
+
+<div class=\"infoclass\"><strong>Modern Hospital</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:61081\">61081</a>, <a class=\"telephone\" href=\"tel:62163\">62163</a></div>
+
+<div class=\"infoclass\"><strong>WoodLand Hospital</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01713258453\">01713258453</a></div>
+
+</div></div><div class=\"demo-frame\">
+<a style=\"text-decoration:none\" href=\"#\"><div id=\"expander1\" class=\"headertitle expander\">Guest House</div></a>
+<div class=\"content\">
+
+<div class=\"infoclass\"><strong>Nice Guest House</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01729443250\">01729443250</a></div>
+
+<div class=\"infoclass\"><strong>Al Farhan</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:62492\">62492</a></div>
+
+<div class=\"infoclass\"><strong>Hotel Rafsan</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:62902\">62902</a></div>
+
+<div class=\"infoclass\"><strong>Hotel Nur Jahan</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:61593\">61593</a></div>
+
+<div class=\"infoclass\"><strong>Hotel Wayasi</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01812161114\">01812161114</a></div>
+
+</div></div><div class=\"demo-frame\">
+<a style=\"text-decoration:none\" href=\"#\"><div id=\"expander1\" class=\"headertitle expander\">Bus Service</div></a>
+<div class=\"content\">
+    
+<div class=\"infoclass\"><strong>Himachal Express:</strong><br />
+
+<p>Noakhali booking counter: </p>
+<p>(1) Sonapur ziropoint (01848-308-969 / 01848-308-971)</p>
+
+<p>(ii) Duttar Hat (01848-308-973)</p>
+
+<p>3) bissonath (01848-308974)</p>
+
+<p>(4) Maijdi Town Hall (01848-308-975)</p>
+
+<p>(5) Maijdi new bus stand (01848-308-977)</p>
+
+<p>(6) Maijdi Market (01848-308-987)</p>
+
+<p>Dhaka Booking Counter :::</p>
+
+<p>(1) Airport (01848-308-954 )</p>
+
+<p>(2) Mohakhali (01848-308-963 / 01819-968-916)</p>
+
+<p>(3) Mirpur -10 (01848-308-960)</p>
+
+<p>(4) Mirpur-1 (01848-308-961 / 01833673255)</p>
+
+<p>(5) sayadabada terminal -10 (01848-308-968)</p>
+
+<p>(6) sayadabada -9 (01848-308-983)</p>
+
+<p>(7) sayadabada 8 (01848308923)</p>
+
+
+</div>
+
+<div class=\"infoclass\"><strong>Bilash Poribohon</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01974474404\">01974474404</a></div>
+
+<div class=\"infoclass\"><strong>VIP Poribohon</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:62294\">62294</a></div>
+
+<div class=\"infoclass\"><strong>Shahi Poribohon</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01712093622\">01712093622</a></div>
+
+<div class=\"infoclass\"><strong>Asia Classic</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01767441404\">01767441404</a></div>
+
+<div class=\"infoclass\"><strong>BRTC</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01821918400\">01821918400</a></div>
+
+<div class=\"infoclass\"><strong>Ekushe Poribohon</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01678047365\">01678047365</a></div>
+
+<div class=\"infoclass\"><strong>Upukul Service</strong><br />
+Phone: <a class=\"telephone\" href=\"tel:01981002934\">01981002934</a></div>
+
+</div></div><div class=\"demo-frame\">
+<a style=\"text-decoration:none\" href=\"#\"><div id=\"expander1\" class=\"headertitle expander\">Train Service</div></a>
+<div class=\"content\">
+
+<div class=\"infoclass\"><strong>Sonapur</strong>: <a class=\"telephone\" href=\"tel:62220\">62220</a><br />
+<strong>Maijdi Court</strong>: <a class=\"telephone\" href=\"tel:62190\">62190</a></div>
+
+</div></div><div class=\"demo-frame\">
+<a style=\"text-decoration:none\" href=\"#\"><div id=\"expander1\" class=\"headertitle expander\">Mail/Express Trains From Noakhali</div></a>
+<div class=\"content\">
+
+<div class=\"infoclass\"><strong>Train No:</strong> 711<br />
+<strong>Name:</strong> Upakul Express<br />
+<strong>Off Day:</strong> Wednesday<br />
+<strong>From:</strong> Noakhali<br />
+<strong>Departure:</strong> 6:00:00 AM<br />
+<strong>To:</strong> Dhaka<br />
+<strong>Arrival:</strong> 1:00:00 PM</div>
+
+<div class=\"infoclass\"><strong>Train No:</strong> 11<br />
+<strong>Name :</strong> Dhaka Express<br />
+<strong>Off Day :</strong> No<br />
+<strong>From : </strong>Noakhali<br />
+<strong>Departure : </strong>9:10:00 PM<br />
+<strong>To :</strong> Dhaka<br />
+<strong>Arrival:</strong> 7:30:00 AM</div>
+
+<div class=\"infoclass\"><strong>Train No: </strong>45<br />
+<strong>Name :</strong> Somotut Express<br />
+<strong>Off Day :</strong> No<br />
+<strong>From :</strong> Noakhali<br />
+<strong>Departure : </strong>8:00:00 AM <strong>To :</strong> Laksham<br />
+<strong>Arrival: </strong>9:45:00 AM</div>
+
+<div class=\"infoclass\"><strong>Train No: </strong>85<br />
+<strong>Name :</strong> Noakhali Commuter<br />
+<strong>Off Day : </strong>Friday<br />
+<strong>From : </strong>Noakhali<br />
+<strong>Departure :</strong> 11:20:00 AM<br />
+<strong>To : </strong>Comilla<br />
+<strong>Arrival: </strong>2:05:00 PM</div>
+
+<div class=\"infoclass\"><strong>Train No:</strong> 87<br />
+<strong>Name :</strong> Noakhali Commuter<br />
+<strong>Off Day :</strong> Friday<br />
+<strong>From :</strong> Noakhali<br />
+<strong>Departure :</strong> 5:20:00 PM<br />
+<strong>To : </strong>Laksam<br />
+<strong>Arrival:</strong> 7:20:00 PM</div>
+
+</div></div><div class=\"demo-frame\">
+<a style=\"text-decoration:none\" href=\"#\"><div id=\"expander1\" class=\"headertitle expander\">Train Location Tracking Service</div></a>
+<div class=\"content\">
+
+<div class=\"infoclass\">From Now you can track Train current location via sms. From January 2014, All trains are tracked by GPS. For this reason you will get the actual location of the train. To get this service you need to know the train no. See the below. Upokul Express Train no is 711<br />
+So you have to write =&gt;<br />
+<strong>Tr 711</strong><br />
+send this to 16318. Only Banglalink and Grammenphone subscriber can get this feature. You will only get the notification of Express Train.</div>
+</div></div>
+",
       "categories": [
         "Android"
       ],
