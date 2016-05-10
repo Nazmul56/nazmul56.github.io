@@ -1,4 +1,4 @@
-
+{
   "articleList": [
     {
       "title": "Android Internet Connection Using HTTP GET (HttpClient)",
@@ -24,4 +24,4 @@
       ]
     }
   ]
-
+}
