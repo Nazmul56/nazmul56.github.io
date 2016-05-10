@@ -17,9 +17,7 @@ function myFunction() \{
 <button onclick=\"myFunction()\">Click Me!</button>
 </body>
 </html>",
-      "categories": [
-        "Last"
-      ],
+      "categories": "Update In Few Minutes",
       "tags": [
         "android",
         "httpclient",
