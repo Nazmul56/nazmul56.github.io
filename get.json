@@ -1,8 +1,29 @@
 {
   "articleList": [
     {
-      "title": "Android Internet Connection Using HTTP GET (HttpClient)",
-      "url": "http://hmkcode.com/android-internet-connection-using-http-get-httpclient/",
+      "title": "Intruduction",
+      "url": "",
+      "categories": "Update In Few Minutes",
+      "tags": [
+        "android",
+        "httpclient",
+        "internet"
+      ]
+    },
+   {
+      "title": "Academic Calendar",
+      "url": "",
+      "categories": 
+      "Last Update : 1-May-2016",
+      "tags": [
+        "android",
+        "httpclient",
+        "internet"
+      ]
+    },
+     {
+      "title": "Regent Board",
+      "url": "",
       "categories": [
         "Android"
       ],
@@ -13,14 +34,109 @@
       ]
     },
     {
-      "title": " Android | Taking Photos with Android Camera ",
-      "url": "http://hmkcode.com/android-camera-taking-photos-camera/",
+      "title": "Academic Council ",
+      "url": "",
+      "categories": 5-May-2016,
+      "tags": [
+        "android",
+        "camera"
+      ]
+    },
+    
+    {
+      "title": "Comittees",
+      "url": "",
       "categories": [
         "Android"
       ],
       "tags": [
         "android",
-        "camera"
+        "httpclient",
+        "internet"
+      ]
+    },
+        {
+      "title": "Departments & Teachers",
+      "url": "",
+      "categories": [
+        "Android"
+      ],
+      "tags": [
+        "android",
+        "httpclient",
+        "internet"
+      ]
+    },
+        {
+      "title": "Class Representative",
+      "url": "",
+      "categories": [
+        "Android"
+      ],
+      "tags": [
+        "android",
+        "httpclient",
+        "internet"
+      ]
+    },
+        {
+      "title": "Academic Officiary",
+      "url": "",
+      "categories": [
+        "Android"
+      ],
+      "tags": [
+        "android",
+        "httpclient",
+        "internet"
+      ]
+    },
+        {
+      "title": "Student Activities",
+      "url": "",
+      "categories": [
+        "Android"
+      ],
+      "tags": [
+        "android",
+        "httpclient",
+        "internet"
+      ]
+    },
+        {
+      "title": "Hall Office",
+      "url": "",
+      "categories": [
+        "Android"
+      ],
+      "tags": [
+        "android",
+        "httpclient",
+        "internet"
+      ]
+    },
+        {
+      "title": "Emergency Contacts",
+      "url": "",
+      "categories": [
+        "Android"
+      ],
+      "tags": [
+        "android",
+        "httpclient",
+        "internet"
+      ]
+    },
+    {
+      "title": "Message From Developer",
+      "url": "",
+      "categories": [
+        "Android"
+      ],
+      "tags": [
+        "android",
+        "httpclient",
+        "internet"
       ]
     }
   ]
